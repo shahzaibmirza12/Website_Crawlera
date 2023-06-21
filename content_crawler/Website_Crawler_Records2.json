@@ -1,0 +1,852 @@
+[
+  {
+    "url": "https://wand.ai/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/",
+      "loadedTime": "2023-06-20 15:23:21",
+      "referrerUrl": "https://wand.ai/",
+      "depth": 0,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/",
+      "title": "Business-centric AI | Wand.ai",
+      "description": "Wand is the self-service AI platform for all, no friction, no code, no pain. The Wand AI platform offers speed, autonomy, flexibility and collaboration to build the AI-enabled enterprise.",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\nWand gives everyone the AI power to\nsolve business problems and create value faster than ever before.\nCollaborative, measurable and scalable.\nWith Wand’s end-to-end AI platform, you can bring your ideas to life in a matter of days\nWith Wand’s end-to-end AI platform, you can bring your ideas to life in a matter of days\nStreamlining the full AI process without limits\nStreamlining the full AI process without limits\nWork exactly the way you want\nWork exactly the way you want\nEverything AI in one place\nEverything AI in one place\nLeverage the power of AI creation\nBring next-gen solutions to your organization\nFocus on research and modeling, Wand takes care of the rest\nThe Wand community is for people in any role across the organization. It is for anyone who wants to make a positive change.\nBy joining the community you’ll be able to get access to our latest product development updates, newsletters and product programs.\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/news/aws-announces-21-startups-selected-for-the-aws-generative-ai-accelerator/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/news/aws-announces-21-startups-selected-for-the-aws-generative-ai-accelerator/",
+      "loadedTime": "2023-06-20 15:23:22",
+      "referrerUrl": "https://wand.ai/",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://aws.amazon.com/blogs/startups/aws-announces-21-startups-selected-for-the-aws-generative-ai-accelerator/",
+      "title": "AWS announces 21 startups selected for the AWS generative AI accelerator - Wand",
+      "description": "by Rob Ferguson AWS is excited to announce the cohort of startups accepted into the global AWS Generative AI Accelerator. The program kicks off May 24th at our San Francisco AWS Startup Loft and closes on July 27th. Over the course of their 10-week program, participants will receive tailored technical advice, dedicated mentorship, an opportunity to pitch their […]",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\nby Rob Ferguson\nAWS is excited to announce the cohort of startups accepted into the global\nAWS Generative AI Accelerator\n. The program kicks off May 24th at our\nSan Francisco AWS Startup Loft\nand closes on July 27th.\nOver the course of their 10-week program, participants will receive tailored technical advice, dedicated mentorship, an opportunity to pitch their demos to venture capitalists (VCs) in the AWS network, and up to $300,000 in AWS credits. Critically, they will also have the opportunity to foster lifelong connections with their fellow founders and within AWS.\nOur finalists come from various industries, backgrounds, and geographic regions, but all they have one thing in common: they are using generative artificial intelligence (AI) technology to drive unprecedented innovation in their space.\nThey’re exploring practical solutions to problems such as illiteracy and healthcare burnout and designing tools that drastically reduce time spent on costly, tedious tasks.\nNo matter their vision, all of these startups are\nproving what’s possible\nwith generative AI and boldly reinventing applications, data touchpoints, and customer experiences, to name a few.\nStartups are the lifeblood of innovation, and AWS is eager to support them in developing incredible generative AI solutions. Many of the AWS Startups team are former founders or VCs, and we embrace this chance to give back to these startups in meaningful, actionable ways.\n“Generative AI holds tremendous potential to revolutionize how humans interact with technology and with each other, while democratizing access to new and existing technology in a way that is unprecedented.” says Jon Jones, vice president of compute and AI/ML services at AWS. “Customers are already seeing value in streamlining processes, accelerating product development, and using AI as a trusted companion to increase productivity and better serve their clients.” We are excited to partner with these innovators on their journey to solve some of the world’s biggest challenges.”\nPlease join us in extending a warm welcome to the 21 AWS Generative AI Accelerator program finalists.\nEllo\nEllo leverages large language models (LLM) and AI solutions to perfectly tailor literacy lessons to each young student they reach. Through interactive reading sessions from real books, Ello becomes a motivational learning companion that transforms children into curious, enthusiastic readers.\nCrate\nOn a mission to create an open internet with no boundaries, Crate invites users to curate a personal, shareable artifact made up of their favorite pieces from anywhere on the web. The team puts AI in the hands of users to help them tell better stories with auto generated images, text, and instant summaries.\nqlip\nqlip is an AI-powered video highlights generator that helps users grow their social media presence by automatically repurposing long-form videos into short highlights primed for today’s audiences.\nOpenAds\nOpenAds solves advertising challenges for publishers, consumers, and advertisers by identifying and suggesting ads that match a business’ user experience UX, are tailored to customer advertising and privacy preferences, and keep creative control in the hands of advertisers.\nLeonardo Ai\nLeonardo Ai is an AI-driven content production suite tailored for creators across diverse sectors, with a core focus on game development artists. Through the platform, developers can utilize generative AI solutions that integrate with their workflows to unlock their creativity and accelerate content production from months to minutes.\nStoria\nBuilt by leading AI researchers and engineers, Storia operates as a creative assistant for rapid film previsualization and production. Story producers can experiment with AI-generated videos, visualize what their product would look like shot in different styles, and build collaborative and comprehensive storyboards in minutes.\nKrikey\nKrikey uses generative AI to make it easier for creators to breathe life into animations, helping them automate character motion with a variety of 3D avatars, augmented reality (AR) gaming toolkits, and 3D animations. Animations can be seamlessly integrated and exported into the creator’s platform of choice, significantly shortening production time and enhancing the creative process.\nPoly\nPoly is an AI-enabled infinite design asset marketplace (offering seamless physically based rendering [PBR] textures, illustrations, icons, sounds, and many more) that lets anyone use or generate stunning, 8K high definition (HD) professional design assets in seconds with AI.\nFlawless\nTo counteract the rising on-set production costs and time constraints, Flawless gives artists a suite of cinematic-quality AI-powered tools that allow them to rapidly and affordably iterate, experiment, and refine their content.\nKnowtex\nKnowtex empowers clinicians with voice AI automated note-taking and coding from natural conversation to combat burnout and allow focus on patient care.\nVevo\nVevo is building the world’s first atlas of how drugs interact with patient cells in living organisms at single cell resolution. Vevo’s foundation models trained on this atlas faithfully capture disease biology, enabling generative design of drugs that are more likely to treat disease in humans.\nOrdaōs\nOrdaōs is a human-enabled, machine-driven drug design company. Their miniPRO proteins help drug hunters deliver treatments that are safer and more effective than traditional discovery methods.\nNosis Bio\nNosis Bio is enabling the future of targeted drug delivery by integrating deep expertise in generative AI and high-throughput biochemistry.\nTheia Insights\nTheia Insights leverages the power of AI to synthesize and distill financial data, generating real-time insights beyond human research capability, to inform the investment management community, helping individual and institutional investors make better decisions.\nUnwrap\nPowered by AI and ML, Unwrap analyzes data from multiple customer feedback channels at scale, providing them with auto-labeling, semantic search, and automatic alerts that strengthen the feedback loop between companies and their customers.\nStack AI\nStack is a no-code interface that helps businesses of all sizes build and deploy AI applications including chatbots, document processing, content creation, and automated customer support in minutes.\nNixtla\nNixtla is building a state-of-the-art disruptive open-source ecosystem that uses AI to unlock scalable, lightning-fast, and user-friendly time series forecasting and anomaly detection.\nWand\nWand enables businesses to sync data from multiple sources to rapidly build collaborative, measurable, and scalable AI solutions. From predictive models to customized LLMs, teams have the power to solve business problems and create value faster than ever before.\nGriptape\nGriptape’s open source framework and managed service enables developers to enhance LLMs with chain of thought capabilities, creating context-aware conversational, copilot, and autonomous agents.\nBunked\nBunked distinguishes AI-generated content from real content using blockchain technology.\nProtopia AI\nProtopia AI provides data protection and privacy-preserving AI/ML technologies that specialize in enabling AI algorithms and software platforms to operate without the need to access plain-text information. The company works with enterprises and generative AI/LLM providers to enable maintaining ownership and confidentiality of enterprise data while using AI/ML solutions.\nAWS is excited to act as a catalyst for these forward-thinking startups. We continue to build upon the legacy of our previous accelerator programs—such as the\nAWS Impact Accelerator\n—to provide founders with the resources, guidance, and networking opportunities they need to scale and succeed.\nIn the same way AWS democratized the cloud by expanding access to industry-leading technology, we look forward to offering our scale, expertise, and relationships to the next generation of companies at the forefront of generative AI innovation.\nRead the post on AWS\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/join-the-community/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/join-the-community/",
+      "loadedTime": "2023-06-20 15:23:22",
+      "referrerUrl": "https://wand.ai/",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/join-the-community/",
+      "title": "Contact Us | AI for All | Wand.ai",
+      "description": "Please contact our team and we will get back to you shortly to better understand your interest areas",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\nBy submitting the form you agree to our\nPrivacy Policy.\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/company/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/company/",
+      "loadedTime": "2023-06-20 15:23:22",
+      "referrerUrl": "https://wand.ai/",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/company/",
+      "title": "About Us | The AI company for everyone | Wand.ai",
+      "description": "The Wand wizards are innovators who share the passion for defining the way organizations use AI and create value",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\nOur goal is to enable everyone, regardless of their technical skills, to be able to solve complex business problems and create an impact quickly and intuitively.\nImplementing AI solutions does not have to be a lengthy and complex process.\nIt can be different, simple and impactful.\nThe power of our shared vision is why we started Wand.\nOur product is built for and in collaboration with the people we serve.\nThe purpose of AI is to help people solve complex business problems. To assist people in making better decisions. It is time to challenge the current status quo and build a better future powered by AI for all, tech savvy or not.\nTo make our vision a reality, we want people that believe in our mission to join our journey and shape the future.\nWe are looking for innovators who share our passion for defining the way organizations use AI and create value. Individuals who love to build while creating positive change, and challenge the status quo.\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/cdn-cgi/l/email-protection",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/cdn-cgi/l/email-protection",
+      "loadedTime": "2023-06-20 15:23:22",
+      "referrerUrl": "https://wand.ai/",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/cdn-cgi/l/email-protection",
+      "title": "",
+      "description": "",
+      "languageCode": ""
+    },
+    "text": "The website from which you got to this page is protected by Cloudflare. Email addresses on that page have been hidden in order to keep them from being accessed by malicious bots.\nYou must enable Javascript in your browser in order to decode the e-mail address\n.\nIf you have a website and are interested in protecting it in a similar way, you can\nsign up for Cloudflare\n.\n\nCloudflare Ray ID:\n7da34bc7297cca74\n\n•\n\nYour IP:\nClick to reveal\n\n59.103.102.19\n\n•\n\n\nPerformance & security by\n\nCloudflare\n"
+  },
+  {
+    "url": "https://wand.ai/privacy-policy/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/privacy-policy/",
+      "loadedTime": "2023-06-20 15:23:23",
+      "referrerUrl": "https://wand.ai/",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/privacy-policy/",
+      "title": "Privacy Policy - Wand",
+      "description": "WAND PRIVACY POLICY [Last Modified: April 04, 2023] This privacy policy (“Privacy Policy” or “Policy”) describes how Wand Inc. (“Wand”, “we”, “us”, or “our”) collect, use and disclose certain information, including your personal information and the choices you can make about that information.  This Privacy Policy which is incorporated by reference in our Terms and […]",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\n[Last Modified: April 04, 2023]\nThis privacy policy (“\nPrivacy\n\nPolicy\n” or “\nPolicy\n”) describes how\nWand Inc.\n(“\nWand\n”, “\nwe\n”, “\nus\n”, or “\nour\n”) collect, use and disclose certain information, including your personal information and the choices you can make about that information.\nThis Privacy Policy which is incorporated by reference in our\nTerms and Condition\n, the Master Service Agreement and any other beta/alpha terms of documentation (together “\nTerms\n”) governs the processing and transfer of data collected in connection with our website, available at:\nhttps://wand.ai/\n(“\nwebsite\n“), or while accessing or using the Wand cloud-based SaaS platform (“\nPlatform\n”), or the services provided therein (collectively, the “\nServices\n“).\nTerms not define herein shall have the same meaning ascribe to them in the Terms.\nWe collect and process certain information when you browse our website (“\nVisitors\n”), or when you access and use the Services, including the Alpha/Beta Service (“\nCustomer\n”) (collectively shall be referred to as “\nyou\n”).\nIn the event you are a Colorado or California resident, and the CCPA applies to you – please review our\nCCPA Privacy Notice\n.\nPOLICY AMENDMENTS:\nWe reserve the right to amend this Policy from time to time, at our sole discretion. The most recent version of the Policy will always be posted on the website. The updated date of the Policy will be reflected in the “Last Modified” heading. We will provide notice to you if these changes are material, and, where required by applicable law, we will obtain your consent. Any amendments to the Policy will become effective within 30-days upon the display of the modified Policy. We recommend you review this Policy periodically to ensure that you understand our most updated privacy practices.\nCONTACT INFORMATION AND DATA CONTROLLER INFORMATION:\nWand is the controller of the Personal Data detailed below, Wand is incorporated under the laws of the state Israel and its address is Aluf Kalman Magen Street 3, Tel Aviv, Israel.\nYou may contact our privacy team as follows:\nBy Email\n:\n[email protected]\n\nDATA SETS WE COLLECT AND FOR WHAT PURPOSE:\nYou can find here information regarding the purposes for which we process your personal data as well as our lawful basis for processing, the definition of “personal” and “non-personal” data, and how it is technically processed.\nNon-Personal Data\nDuring your interaction with our Services, we may collect aggregated, non-personal non-identifiable information, which may be made available or gathered via your access to and use of the Services (“\nNon-Personal Data\n“). We are not aware of the identity of the user from which the Non-Personal Data is collected. The Non-Personal Data being collected may include your aggregated usage information and technical information transmitted by your device\n,\n\nsuch as: the type of browser or device you use, language preference, time and date stamp, country location, etc.\n\nPersonal Data\nWe may also collect from you, during your access or interaction with the Services, individually identifiable information, namely information that identifies an individual or may, with reasonable effort, be used to identify an individual (“\nPersonal Data\n” or “\nPersona Information\n”). The types of Personal Data that we collect as well as the purpose for processing such data are specified in the table below. For the avoidance of doubt, any Non-Personal Data connected or linked to any Personal Data shall be deemed as Personal Data as long as such connection or linkage exists.\nThe table below details the processing of\nPersonal Data\n, the purpose, lawful basis, and processing operations:\nDATA SET\nPURPOSE AND OPERATIONS\nLAWFUL BASIS\nVISITORS\nOnline Identifiers:\nAgent, unique ID, Cookie ID, IP, and other online unique identifier.\nWe process such data when you visit our website through third party cookies for analytic and remarketing purposes.\nConsent which we will obtain through our cookie notice and consent management platform we use (“\nCMP\n”). You may withdraw consent at any time by using the cookie preference settings:\nhttps://wand.ai/cookie-list/\n\nContact Information:\nIf you voluntarily contact us for your interest in our products, support or other inquiries, through any form available on the website or by email, you may be required to provide us with certain information such as your name, job title, company name, email address, and any additional information you decide to share with us.\n\nIf you are contacting us on behalf of another person, we value your assistance and care for others, please note that it is your responsibility to make sure that any person whose Personal Data you provide is aware of the principles of this statement and agrees that you will provide Personal Data to us on this basis.\nWe will use this data to provide to the support you requested or respond to your inquiry.\nWe process such Contact Information subject to our legitimate interest in order to respond to your inquiry.\nNewsletter Registration:\nIn the event you sign up to receive our newsletter or other marketing materials, you will be requested to provide your contact details, such as your email address.\nWe will use your email in order to send you our newsletter and other marketing materials.\nWe process such contact information subject to your consent. You may withdraw consent at any time through the “\nunsubscribe\n” link within the email or by contacting us directly.\nJob Application:\nIn the event you apply for a job via our website, we will process your CV (and the information included therein), your cover letter as well as additional information you decide to provide such as your contact information (name, email address and phone number).\nWe will use this information to process your job application and for recruitment purposes.\nWe process such information subject to our legitimate interest.\nCUSTOMER\nCustomer Account:\nIn order to use our Services, or otherwise register to a training or request a demo, you will need to create an account. The information provided during the registration process or log-in will\ninclude your full name, email address, information about your company, your job\ntitle, and any other information you decide to provide. Any such information you provide us in connection with the registration for our Services is deemed “\nAccount Information\n”.\nWe use the Account Information to create an account, provide account management, support and to provide the Services as well as perform/execute the Master Service Agreement and to grant you the license to use the Platform, account and Services.\nProcessing is necessary for the performance of a contract to which the data subject is party.\nPayment Information:\nFollowing the registration process, you will need to choose a plan to use our Platform, and provide us certain payment information.\nWe use Stripe (“\nStripe\n”) as a third party payment processors to process this information. Consequently, any transactions that are processed by Strip will be governed by its\nprivacy policy and terms\nwhich we recommend that you review.\nPerformance of a contract with you.\nUsage Data:\nWhen you use our Platform, we may directly or through third party measurement and recording tools, generate data on how you use the Platform and Services, crashes and errors, time spent, click stream, etc. (“\nUsage Data\n”). Most Usage Data does not contain Personal Data. To the extent Usage Data contains Personal Data, it will be treated as personal data and is covered under this Privacy Policy.\nWe use Usage Data improve our Services.\nWe process such information subject to our legitimate interest.\nDirect Marketing:\nAs a Customer, we will send you invoices, materials and content through the email information you provided during your registration.\nWe will use this information to keep you updated with offers and content such as software updates, new capabilities and features, surveys and send you invoices and supporting documentation.\nWe process such information subject to our legitimate interest. You can opt-out at any time through the “\nunsubscribe\n” link within the email or by contacting us directly.\nSurvey and Feedback:\nWe reserve the right to ask you to provide feedback on our Services, including any alpha/beta services or features. We will collect your feedback through email correspondence or through a third-party service provider: Pendo.io, Please see Pendo’s\nprivacy policy\n(“\nPendo\n“);\nWe use this information to improve, revise and enhance our Service, as well as optimize and customize the Services.\nWe process such information subject to your consent. You may withdraw your consent at any time.\nPlease note that the actual processing operation per each purpose of use and lawful basis detailed in the table above may differ. Such processing operation usually includes a set of operations made by automated means, such as collection, storage, use, disclosure by transmission, erasure, or destruction. The transfer of personal data to third-party countries, as further detailed in the Data Transfer Section, is based on the same lawful basis as stipulated in the table above.\nIn addition, we may use certain Personal Data to prevent potentially prohibited or illegal activities, fraud, misappropriation, infringements, identity thefts, and any other misuse of the Services and to enforce the Terms, as well as to protect the security or integrity of our databases and the Services, and to take precautions against legal liability. Such processing is based on our legitimate interests.\nWe may collect different categories of Personal Data and Non-Personal Data from you, depending on the nature of your interaction with the Services provided through the website and Platform, as detailed above. If we combine Personal Data with Non-Personal Data, the combined information will be treated as Personal Data or for as long as it remains combined.\nHOW WE COLLECT YOUR INFORMATION:\nDepending on the nature of your interaction with us, we may collect the above detailed information from you, as follows:\nCOOKIES AND SIMILAR TECHNOLOGIES:\nWe use “cookies” (or similar tracking technologies) when you access our website. The use of cookies is a standard industry-wide practice. A “cookie” is a small piece of information that a website assigns and stores on your computer while you are viewing a website. Cookies can be used for various purposes, including allowing you to navigate between pages efficiently, as well as for statistical purposes, analytic purposes and marketing. You can find more information about our use of cookies here:\nhttps://wand.ai/cookie-list/\n.\nDATA SHARING – CATEGORIES OF RECIPIENTS WE SHARE PERSONAL DATA WITH:\nWe share your data with third parties, including our partners or service providers that help us provide our Services. You can find here information about the categories of such third-party recipients.\nCATEGORY OF RECIPIENT\nDATA THAT WILL BE SHARED\nPURPOSE OF SHARING\nService Providers\nAll data\nWe may disclose Personal Data to our trusted agents and service providers (including, but not limited to, our Cloud Service Provider, Analytics Service Provider, payment processors, CRM provider, recording tool provider etc.) so that they can perform the requested services on our behalf. Thus, we share your data with third party entities, for the purpose of storing such information on our behalf, or for other processing needs. These entities are prohibited from using your personal information for any purposes other than providing us with requested services.\nMarketing\nOnline Identifiers and Contact Information\nWe may share Personal Data to our services providers and third parties in order to provide you with marketing materials by using cookies and other similar technologies.\nAny acquirer of our business\nAll data\nWe may share Personal Data, in the event of a corporate transaction (e.g., sale of a substantial part of our business, merger, consolidation or asset sale). In the event of the above, our affiliated companies or acquiring company will assume the rights and obligations as described in this Policy.\nLegal and law enforcement\nSubject to law enforcement authority request.\nWe may disclose certain data to law enforcement, governmental agencies, or authorized third parties, in response to a verified request relating to terror acts, criminal investigations or alleged illegal activity or any other activity that may expose us, you, or any other user to legal liability, and solely to the extent necessary to comply with such purpose.\nWhen we share information with services providers and partners, we ensure they only have access to such information that is strictly necessary for us to provide the Services. These parties are required to secure the data they receive and to use the data for pre-agreed purposes only while ensuring compliance with all applicable data protection regulations (such service providers may use other non-personal data for their own benefit).\nUSER RIGHTS:\nWe acknowledge that different people have different privacy concerns and preferences. Our goal is to be clear about what information we collect so that you can make meaningful choices about how it is used. We allow you to exercise certain choices, rights, and controls in connection with your information. Depending on your relationship with us, your jurisdiction and the applicable data protection laws that apply to you, you have the right to control and request certain limitations or rights to be executed.\nFor\nCalifornia and Colorado residents\nplease review our\nCCPA Privacy Notice\n.\nYou may exercise any or all of your above rights in relation to your Personal Data by filling out the Data Subject Request (“\nDSR\n”) form available\nhere\n,\nand send it to\n:\n[email protected]\n\n\nDATA RETENTION:\nIn general, we retain the Personal Data we collect for as long as it remains necessary for the purposes set forth above, all\nunder\nthe applicable regulation, or until you express your preference to optout, where applicable.\nOther circumstances in which we will retain your Personal Information for longer periods of time include: (i) where we are required to do so in accordance with legal, regulatory, tax, or accounting requirements, or (ii) for us to have an accurate record of your dealings with us in the event of any complaints or challenges, or (iii) if we reasonably believe there is a prospect of litigation relating to your Personal Data. Please note that except as required by applicable law, we will not be obligated to retain your data for any particular period, and we may delete it for any reason and at any time, without providing you with prior notice if our intention to do so.\nSECURITY MEASURES:\nWe work hard to protect the Personal Data we process from unauthorized access, alteration, disclosure, or destruction. We have implemented physical, technical, and administrative security measures for the Services that comply with applicable laws and industry, such as encryption using SSL, we minimize the amount of data that we store on our servers, restricting access to Personal Data to Wand employees, contractors, and agents, etc. Note that we cannot be held responsible for unauthorized or unintended access beyond our control, and we make no warranty, express, implied, or otherwise, that we will always be able to prevent such access.\nPlease contact us at\n:\n\n[email protected]\n\nif you feel that your privacy was not dealt with properly, in a way that was in breach of our Privacy Policy, or if you become aware of a third party’s attempt to gain unauthorized access to any of your Personal Data. We will make a reasonable effort to notify you and the appropriate authorities (if required by applicable law) in the event that we discover a security incident related to your Personal Data.\nINTERNATIONAL DATA TRANSFER:\nOur data servers in which we host and store the information are located in the EU. The Company’s HQ is based in Israel in which we may access the information stored on such servers or other systems such as the Company’s ERP, CRM, Salesforce, Strip, Pendo and other systems. In the event that we need to transfer your Personal Data out of your jurisdiction, we will take appropriate measures to ensure that your Personal Data receives an adequate level of protection as required under applicable law. Furthermore, when Personal Data that is collected within the European Economic Area (“\nEEA\n“) is transferred outside of the EEA to a country that has not received an adequacy decision from the European Commission, we will take necessary steps in order to ensure that sufficient safeguards are provided during the transferring of such Personal Data, in accordance with the provision of the standard contractual clauses approved by the European Union. Thus, we will obtain contractual commitments or assurances from the data importer to protect your Personal Information, using contractual protections that EEA and UK regulators have pre-approved to ensure your data is protected (known as standard contract clauses), or rely on adequacy decisions issued by the European Commission. Some of these assurances are well-recognized certification schemes.\nELIGIBILITY AND CHILDREN PRIVACY:\nThe Services are not intended for use by children (the phrase “child” shall mean an individual that is under the age defined by applicable law, which concerning the EEA is under the age of 16, and with respect to the US, under the age of 13), and we do not knowingly process children’s information. We will discard any information we receive from a user that is considered a “child” immediately upon discovering that such a user shared information with us. Please contact us at:\n[email protected]\nif you have reason to believe that a child has shared any information with us.\n\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/news/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/news/",
+      "loadedTime": "2023-06-20 15:23:23",
+      "referrerUrl": "https://wand.ai/",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/news/",
+      "title": "News - Wand",
+      "description": "News Discover how Wand works Request a demo",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/contact/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/contact/",
+      "loadedTime": "2023-06-20 15:23:23",
+      "referrerUrl": "https://wand.ai/",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/contact/",
+      "title": "Contact Us | AI for All | Wand.ai",
+      "description": "Please contact our team and we will get back to you shortly to better understand your interest areas",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\nLet’s do magical things together!\nPlease contact our team and we will get back to you shortly to better understand your interest areas\nBy submitting the form you agree to our\nPrivacy Policy.\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/cookie-list/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/cookie-list/",
+      "loadedTime": "2023-06-20 15:23:23",
+      "referrerUrl": "https://wand.ai/",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/cookie-list/",
+      "title": "Cookie list - Wand",
+      "description": "Cookie list Cookie Settings",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\nCookie Settings\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/terms-and-conditions/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/terms-and-conditions/",
+      "loadedTime": "2023-06-20 15:23:23",
+      "referrerUrl": "https://wand.ai/",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/terms-and-conditions/",
+      "title": "Terms and Conditions - Wand",
+      "description": "Terms and Conditions (Last Amended: March, 2022) TERMS AND CONDITIONS [Last Amended: March, 2022] These terms and conditions (“Terms”) are a legally binding agreement between Wand Inc. (“Wand” “we,” “us,” or “our”), and you, a user which access to or otherwise interact with our website, available at wand.ai (“website”).  ACCEPTANCE OF THE TERMS: BY ACCESSING, […]",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\n(Last Amended: March, 2022)\nTERMS AND CONDITIONS\n[Last Amended: March, 2022]\nThese terms and conditions (“Terms”) are a legally binding agreement between Wand Inc. (“Wand” “we,” “us,” or “our”), and you, a user which access to or otherwise interact with our website, available at wand.ai (“website”).\nACCEPTANCE OF THE TERMS: BY ACCESSING, BROWSING OR OTHERWISE USING OUR WEBSITE YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD AND AGREE TO BE BOUND BY THESE TERMS.\n1. THE WEBSITE\nThe website provides information and resources about our business, services, and other content related thereto, including without limitation, contact information, images, text, logos, button icons, videos, and other specialized content and features (collectively, the “Content”). In addition, the website provides you with means of communication which you can use to contact us, apply for a job, review instruction videos for our products, submit a support ticket and read Media releases, blogs, journal publications and international conferences related to our products, etc. (“services”). Any information processed through such channels shall be subject to our Privacy Policy wand.ai/privacy\nThe website may include links to third party websites and resources that are not operated or owned by us (“Third Party Content”). Your interaction with such content not operated by us is subject to your acknowledgment and adherent with such third party’s terms of use and other applicable policies (such as privacy policy). We have no control over such Third-Party Content nor we are obliged to monitor it, hence, your interaction with the Third-Party Content is at your own risk.\nWe reserve the right to change, modify, suspend, or discontinue any aspect of the services, Content or website at any time without notice to you and without any liability to you whatsoever in connection therewith.\nIn case you are a user of our products and services such as the Wand AI platform (“Platform”), please be aware that your use of the Platform is subject to a relevant and separate services agreement signed between us and you or the relevant account owner under which you use the Platform.\nTHE CONTENT IS INTENDED SOLELY FOR INFORMATIONAL AND BUSINESS PURPOSES. THE CONTENT IS NOT, NOR SHALL IT BE TAKEN AS PROFESSIONAL SERVICES OR ADVICE. WE EXPRESSLY DISCLAIM ALL LIABILITY IN RESPECT OF ANY ACTIONS TAKEN OR NOT TAKEN BASED ON ANY CONTENT AVAILABLE ON THIS WEBSITE, WHICH ARE DONE AT YOUR OWN RESPONSIBILITY AND RISK. THE INFORMATION CONTAINED ON THIS SITE IS FOR GENERAL GUIDANCE ONLY.\n2. REPRESENTATION, WARRANTIES & RESTRICTION OF USE\nYou hereby represent and warrant that: (i) you are eligible to enter into these Terms, or, where applicable, you have all proper authorization to enter into these Terms; (ii) you are not considered to be a “child,” “minor” or any other similar term, in your jurisdiction, and that you are not under the age of 16; and (iii) to comply with all applicable laws regarding you access to the website, including any intellectual property law.\nYou further represent and warrant to not, and to authorize or encourage any third party to: (i) use the services, Content or website in a non-compliant, unlawful, illegal, fraudulent, inappropriate, or unauthorized manner (including that which would infringe upon the rights of a third party) or that is in breach of applicable law; (ii) circumvent, disable or otherwise interfere with security-related features of the services, Content or website or prevent others from using the services, Content or website; (iii) copy, modify, or create a derivative work of the services, Content or website, in whole or in part; (iv) reverse engineer, disassemble, decompile, decode, adapt, or otherwise attempt to derive or gain access to any software component of the services, Content or website, in whole or in part; (v) remove, deface, obscure, or alter the services, Content or website therein including any copyright notices, trademarks, other proprietary rights or disclaimers provided as part of the services, Content or website; (vi) create a database by systematically downloading and storing all or any Content from the Service; (vii) create a database by systematically downloading and storing all or any Content from the Service; (viii) rent, lease, lend, sell, license, sublicense, assign, distribute, publish, transfer, or otherwise make available Wand services, Content or website to a third party; and (ix) use, access or attempt to access the services, Content or website with any automated means (including robots, scrapers, etc.).\n3. INTELLECTUAL PROPERTY\nThe services, Content, or website are exclusively owned by Wand or by third party licensors (e.g., service providers). Except as explicitly provided herein, no license, right, title, or interest to the website or the Content shall be granted to you, and we or our partners reserve any and all rights, title, and ownership to the website and the Content. You shall not use any of Wand’s copyrights, trademarks, trade names, logo, or other Intellectual Property in any way except to the limited extent as may be expressly agreed in these Terms or subject to our prior written consent.\n4. DISCLAIMER OF WARRANTIES\nExcept as provided herein, the services, Content, or website are provided on an “as is” and “as available” basis, without warranties of any kind, express or implied, including, without limitation, representations, warranties and conditions of merchantability, fitness for a particular purpose, title, non-infringement, and those arising by statute or from a course of dealing or usage of trade, marketability, suitability, incompleteness, applicability or relevance of the Content. You agree that Wand will not be held responsible for any decision made or action taken or not taken in reliance on the Content nor do we assume any responsibility for any loss, injury or damages incurred as a result or in connection with such actions. We make no representation or warranties that the services, Content or website are or will be available for use in any particular location or at any specific time. Except as expressly stated herein, Wand does not make any representations, warranties or conditions of any kind, express or implied, as to the security of any information you may provide or activities you engage in during the course of your use of the services, Content or website. Your use of the services, Content or website is at your own risk and responsibility. Applicable law may not allow the exclusion of certain warranties, so to that extent certain exclusions set forth herein may not apply.\n5. LIMITATION OF LIABILITIES\nYOU ACKNOWLEDGE AND AGREE THAT TO THE FULLEST EXTENT PERMITTED BY LAW, WAND, INCLUDING, WITHOUT LIMITATION, ITS AFFILIATES AND THEIR RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES AND AGENTS (COLLECTIVELY “WAND GROUP”), AS WELL AS ITS VENDORS, DISTRIBUTORS, AND THIRD PARTY LICENSORS, SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, OR EXEMPLARY DAMAGES OR DAMAGES FOR LOST PROFITS, INTERRUPTION, LOSS OF DATA, LOSS OF GOODWILL, WORK STOPPAGE, DEVICE FAILURE, OR MALFUNCTION, OR DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE SERVICES, CONTENT OR WEBSITE, EVEN IF WAND HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. FURTHERMORE, WE WILL NOT BE LIABLE OR RESPONSIBLE FOR ANY FAILURE TO PERFORM, OR DELAY IN THE PERFORMANCE OF ANY OF OUR OBLIGATIONS HEREIN THAT ARE CAUSED BY AN EVENT BEYOND OUR REASONABLE CONTROL.\n6. INDEMNIFICATION\nYou agree to defend, indemnify and hold the Wand Group harmless from any third-party claims, damages, liabilities and expenses (including reasonable attorney’s fees) arising from (i) your use of the services, Content or website that does not comply with these Terms, including your negligence and any wrongful act; (ii) your abuse or infringement of third-party rights through the services, Content or website; and (iii) your breach of any applicable law, regulation and policies. This indemnification obligation will survive the termination or expiration of these Terms and the termination of your use of the services, Content or website\n7. TERMINATION\nYou can terminate these Terms at any time by ceasing your use of the services, Content or website. We may terminate these Terms at any time, with or without cause, effective immediately.\n8. JURISDICTION\nThese Terms shall be governed by and construed in accordance with the laws of the State of Israel without giving rise to any conflict of law principals therein. You hereby agree to resolve any dispute you have exclusively in the competent courts of Tel-Aviv, Israel.\n9. MISCELLANEOUS\nThese Terms constitute the entire understanding between you and Wand with respect to the use of the services, Content or website. If any provision of these Terms is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable and such decision shall not affect the enforceability of such provision under other circumstances, or of the remaining provisions hereof under all circumstances. Failure of Wand to enforce any rights or to take action against you in the event of any breach hereunder shall not be deemed as a waiver of such rights or of subsequent actions in the event of future breaches. These Terms and any right granted herein may not be assigned by you without the prior written consent of Wand. Your relationship with Wand is that of an independent contractor, and nothing in these Terms is intended to, or should be construed to create a partnership, agency, joint venture or employment relationship.\n10. AMENDMENTS TO THE TERMS\nWe reserve the right to periodically amend or revise the Terms at our sole discretion; such changes will be effective immediately upon the display of the revised Terms. The last revision date will be reflected in the “Last Amended” header above. Your continued use of the services, Content or website following such amendments constitutes your acknowledgement and consent of such amendments to the Terms and your agreement to be bound by them. We will make best efforts to provide you with written notification by applicable means of communication, in the event of any material changes to these Terms.\n11. CONTACT US\nIf you have any questions about these Terms, please contact us at:\n• By email:\n[email protected]\n\n\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/docs/about-wand/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/docs/about-wand/",
+      "loadedTime": "2023-06-20 15:23:23",
+      "referrerUrl": "https://wand.ai/",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/docs/about-wand/",
+      "title": "About Wand - Wand",
+      "description": "Wand is a no code AI platform. It enables everyone, regardless of their technical skills, to solve complex business problems and create impact quickly and intuitively. Features",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\nWand is a\nno code AI platform\n. It enables everyone, regardless of their technical skills, to solve complex business problems and create impact quickly and intuitively.\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/product/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/product/",
+      "loadedTime": "2023-06-20 15:23:24",
+      "referrerUrl": "https://wand.ai/",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/product/",
+      "title": "Business-centric AI product | Wand.ai",
+      "description": "Wand is the self-service AI platform for all, no friction, no code, no pain. The Wand AI product offers speed, autonomy, flexibility and collaboration to build the AI-enabled enterprise.",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\nDefine your business goal and connect your data\nWand automates the process of building your AI solution\nDeliver on-going positive impact on your business\nOur drag & drop graphical dataflow builder enables you to quickly and intuitively build highly sophisticated dataflows while focusing exclusively on the logic of the flow – the platform takes care of everything else.\nOur AI solution-building technology automates the end-to-end process of building a complete AI solution – from data cleansing and quality improvement, to AI modeling, AI stress testing, deployment and MLOps, thus reduce time to value, decrease the needed workforce and significantly improve the sustainability and stability of AI solutions in a way that was just not feasible before.\nEach Wand-built solution is automatically managed, monitored, and governed to deliver high-performance into production and at scale. Users of Wand can track the organizational AI status from the single solution level to department and firm wide levels – taking smarter data-driven decisions.\nExisting AI solutions are built in silos and as point solutions, a mundane process that includes dozens of phases, multiple potential failure points and requires high technical skills. Solutions delivery takes months or even years, making the implementation expensive and their impact limited.\nWand enables organizations to move from point solutions that are built in silos to business-centric AI. By working end-to-end, from data to firm-wide value, the Wand Platform enables everyone to make better decisions continuously, to measure value creation, and to maximize the potential of AI.\nUsing Wand, organizations extend their AI powers from the technical departments to the business units, and bring advanced data science capabilities to the business users and start delivering impact faster than ever before.\nBy using Wand, organizations reduce time-to value, spend, and the needed staff for building AI solutions. Together with extending AI capabilities to the business, organizations eliminate the current AI bottlenecks and create measurable AI value at high pace.\n\nIn today’s world, bringing AI solutions to production is a mundane process that includes dozens of phases and potential failure points. Solutions delivery takes months or even years.\nWe make it happen in a matter of days.\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/news/wand-receives-gdpr-certification/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/news/wand-receives-gdpr-certification/",
+      "loadedTime": "2023-06-20 15:23:24",
+      "referrerUrl": "https://wand.ai/news/",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/news/wand-receives-gdpr-certification/",
+      "title": "Wand receives GDPR certification - Wand",
+      "description": "Tel Aviv – January 12th, 2023 Wand today announced it has successfully passed its GDPR audit and assessment as it pertains to all GDPR requirements as a data processor. The GDPR analysis confirmed that the personal identifiable information (or PII) Wand collects is satisfactorily protected and securitized according to GDPR specifications. Wand is a no-code […]",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\nTel Aviv – January 12th, 2023\nWand today announced it has successfully passed its GDPR audit and assessment as it pertains to all GDPR requirements as a data processor. The GDPR analysis confirmed that the personal identifiable information (or PII) Wand collects is satisfactorily protected and securitized according to GDPR specifications.\nWand is a no-code AI platform that allows technical and non-technical users to build AI solutions 100x faster and cheaper than any other method, with state-of-the-art results. Wand charges on computing – no upfront licensing fee. Pilots are not necessary as users can try the platform and create value quickly:\nhttps://bit.ly/3VGAksZ\nIn terms of differentiation, Wand offers:\nWand users are data analysts, business analysts, product owners, and heads of functional units. They have access to large data sets but struggle to identify signals and produce calls-to-actions and value with existing tools. And because their knowledge of AI might be limited, they are not able to create fast and impactful value from AI. Wand simply gives them AI superpowers and allows them to create solutions quickly and with tangible results.\nVisit\nwand.ai\nto discover the AI platform for everyone.\nAccess to the platform:\nhttps://bit.ly/3VGAksZ\nJoin our 60,000+ strong community on\nLinkedin\n.\nAbout Wand\nWand was founded with a clear mission – to enable everyone, regardless of their technical skills, to solve complex business problems and produce tangible ROI using AI. Wand is a no-code AI platform targeting 750 million business users. Time to production is between a few hours to a few days.\nWand is an end-to-end, self-service platform, covering everything from DataOps to MLOps. The core technology, WandML, automates the whole process required to create a business solution using AI.\nStay connected with us at\nhttps://wand.ai/contact/\nand\nhttps://www.linkedin.com/company/wand1/\n.\nMedia Contact:\nWand\nPhilippe Chambadal\n[email protected]\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/news/wand-releases-its-no-code-ai-platform/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/news/wand-releases-its-no-code-ai-platform/",
+      "loadedTime": "2023-06-20 15:23:24",
+      "referrerUrl": "https://wand.ai/news/",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/news/wand-releases-its-no-code-ai-platform/",
+      "title": "Wand releases its no-code AI platform - Wand",
+      "description": "Wand releases its no-code AI platform Dec 22, 2022 Ramat Hasharon, Tel Aviv Dec 22, 2022 (Issuewire.com)  – Wand today announced the release of the first version of its AI platform. Wand is a no-code AI platform that allows technical and non-technical users to build AI solutions 100x faster and cheaper than any other method, […]",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\nWand releases its no-code AI platform\nDec 22, 2022\nRamat Hasharon, Tel Aviv Dec 22, 2022 (\nIssuewire.com\n)\n– Wand today announced the release of the first version of its AI platform.\nWand is a no-code AI platform that allows technical and non-technical users to build AI solutions 100x faster and cheaper than any other method, with state-of-the-art results. Wand charges on computing – no upfront licensing fee. Pilots are not necessary as users can try the platform and create value quickly.\nIn terms of differentiation, Wand offers:\nWand users are data analysts, business analysts, product owners, and heads of functional units. They have access to large data sets but struggle to identify signals and produce calls-to-actions and value with existing tools. And because their knowledge of AI might be limited, they are not able to create fast and impactful value from AI. Wand simply gives them AI superpowers and allows them to create solutions quickly and with tangible results.\nWand’s CEO, Rotem Alaluf, said: “\nWe’re extremely excited to launch our first public version. Wand is the first use case-agnostic AI platform that allows all users to deploy AI at a rapid scale and generate significant ROI by increasing revenues, decreasing cost, and improving compliance.\n”\nWand was founded with a clear mission – to enable everyone, regardless of their technical skills, to solve complex business problems and produce tangible ROI using AI. Wand is a no-code AI platform targeting 750 million business users.\nProduction time is between a few hours to a few days.\nWand is an end-to-end, self-service platform, covering everything from DataOps to MLOps. The core technology, WandML, automates the whole process required to create a business solution using AI.\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/pricing/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/pricing/",
+      "loadedTime": "2023-06-20 15:23:24",
+      "referrerUrl": "https://wand.ai/",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/pricing/",
+      "title": "About Us | The AI company for everyone | Wand.ai",
+      "description": "The Wand wizards are innovators who share the passion for defining the way organizations use AI and create value",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\nTry Wand magic\nfor free\nFree Trial – 14 days\nUnlocking\nyour SuperPowers!\n$20 / month\nBuilding a high\nperforming team!\nStarts at $150 / month\nScaling your\nAI journey!\nUsage-based pricing\nConnected Users\nPrice\nIncluded Monthly Wand Units\nPrice of Extra Wand Unit Monthly\nBusiness Mode / Advance Mode\n1\n14 days free trial\nUnlimited\n–\n1\n$20 / month\nUnlimited\n–\n1\n$150 / month\n50 WU / month\n$3 per WU/hr\nUnlimited\nContact us\nContact us\nContact us\nSee all features and limits\nDedicated Customer Success\nChat Support\nEmail Support\nTraining AI Models\nDeploy Solutions to Production / Stage\nAutomatic Run Schedule\nMagic Wand\nData Bias Detection\nData Drift\nLocal and Global Explainability\nInteractive Explainability\nInput Connectors – Salesforce, Hubspot, Zendesk, Tableau, DBs\nCollaboration Function\nPermissions (Data Access and Solutions Access Control)\nApproval Flow\nAPI Connection / Web Widget API Connection\nVPC Integration\nROI Calculator\nOrg Analytics Dashboard\nModel Risk Management\nSingle Data File Limitations\nSingle Data File Limitations\n–\nUp to 10\ntraining processes\nUp to 5 models\nin production\nUp to once a day\nComing soon\nOnly test mode\nComing soon\nComing soon\nComing soon\n–\n–\n–\n–\n–\n–\n–\n–\n1GB\n–\nUp to 10\ntraining processes / month\nUp to 5 models\nin production\nUp to once a day\nComing soon\nOnly test mode\nComing soon\nComing soon\nComing soon\n–\n–\n–\n–\n–\n–\n–\n–\n1GB\n–\nUnlimited\nUnlimited\nUp to every 5 minutes\nComing soon\nComing soon\nComing soon\nComing soon\nComing soon\n–\n–\nComing soon\n–\n–\n–\n–\n1GB\nUnlimited\nUnlimited\nUp to every 5 minutes\nComing soon\nComing soon\nComing soon\nComing soon\nComing soon\nComing soon\nComing soon\nComing soon\nComing soon\nComing soon\nUnlimited\nSee less\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/news/wand-launches-magic-wand/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/news/wand-launches-magic-wand/",
+      "loadedTime": "2023-06-20 15:23:24",
+      "referrerUrl": "https://wand.ai/news/",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/news/wand-launches-magic-wand/",
+      "title": "Wand launches Magic Wand - Wand",
+      "description": "Ramat Hasharon, Tel Aviv – February 13th, 2023 Wand AI Introduces Magic Wand: A Breakthrough Solution for Augmenting Data Using Generative AI and Large Language Models. Wand AI has just launched Magic Wand, an innovative and game-changing technology that harnesses the power of Generative AI and Large Language Models to transform data analysis. Magic Wand […]",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\nRamat Hasharon, Tel Aviv – February 13th, 202\n3\nWand AI Introduces Magic Wand: A Breakthrough Solution for Augmenting Data Using Generative AI and Large Language Models.\nWand AI has just launched Magic Wand, an innovative and game-changing technology that harnesses the power of Generative AI and Large Language Models to transform data analysis. Magic Wand allows enterprises to perform advanced\ntransformations on both textual and categorical data in seconds, making data analysis quicker and easier than ever before.\nWith Magic Wand, businesses can now instantly apply transformations to large datasets, consisting of hundreds of millions of cells, streamlining processes that\npreviously took months to complete. Furthermore, as Wand AI is an end-to-end AI\nplatform, meaning the same transformations can be applied in real-time, making data analysis more efficient and effective.\n“The capabilities of Magic Wand have the potential to revolutionize the way enterprises work with data in the years to come,” said Rotem Alaluf, CEO of Wand AI.\nExplore the AI platform for everyone at wand.ai and access it at app.wand.ai. Join our fast growing community of 75,000+ on LinkedIn.\nMedia inquiries\nPlease contact Philippe Chambadal at\n[email protected]\nAbout Wand\nAI: Wand AI’s mission is to empower everyone, regardless of technical skills,\nto create tangible ROI using AI. The no-code AI platform targets the 750 million\nbusiness users, offering an end-to-end, self-service solution that covers everything from DataOps to MLOps. The core technology, WandML, automates the entire process of creating a business solution using AI.\nStay connected with Wand AI at\nhttps://wand.ai/contact/\nand\nhttps://www.linkedin.com/company/wand1/\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/news/introducing-the-new-wand/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/news/introducing-the-new-wand/",
+      "loadedTime": "2023-06-20 15:23:24",
+      "referrerUrl": "https://wand.ai/news/",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/news/introducing-the-new-wand/",
+      "title": "Introducing the new Wand! - Wand",
+      "description": "What’s up at Wand? A new exciting Wand product release is here! We invite you to build powerful AI solutions and produce results in hours – just click  app.wand.ai.  We are delighted to announce the arrival of the newest version of the Wand platform! This release brings three(!!!) advanced features that will allow data analysts, […]",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\nA new exciting Wand product release is here! We invite you to build powerful AI solutions and produce results in hours – just click\napp.wand.ai\n.\nWe are delighted to announce the arrival of the newest version of the Wand platform! This release brings three(!!!) advanced features that will allow data analysts, business analysts, product owners, functional leaders, and others to easily create impactful solutions with quick results: the Wand AI Helper, Magic Wand, and Data Suggestions!\nWe’re proud to announce the launch of Wandy – our Platform AI Assistant. Wandy is designed to help users get the most out of the Wand Platform and create value faster. Wandy is equipped with the ability to perform a variety of natural language tasks, such as summarization, text rephrasing, email rephrasing, blog writing, and more. She can also answer any questions you may have about potential use cases and data requirements for each one of them.\nFor technical questions about how to use the platform, Wandy will help users to find the answers in our documentation.\nWe understand that not everyone has a background in AI, and that’s why Wandy is here to help.\nWandy supports each one who does not have a prior understanding or experience in AI.\nWith its user-friendly interface, Wandy makes it easy for anyone to create value with the Wand Platform, without any prior AI knowledge required.\nSo, why wait? Start taking advantage of Wandy’s capabilities today! With Wandy on your side, creating value has never been easier.\nFor example, if you’re aiming to predict churn risk, you can inquire Wandy about the necessary information that needs to be provided to the platform to solve this particular problem.Wandy will accompany you every step of the way as you use the platform and will be there for you!\nWe are excited to release Magic Wand, which we consider a game-changer in the world of enterprise AI, will revolutionize the way you work with your data, and will assist businesses in enhancing their data and efficiently generating increased value from it.\nBy harnessing the power of advanced language models, Magic Wand enables businesses to extract greater value from their data through sophisticated data augmentations, including information extraction, summarization, sentiment analysis, text quality improvement, and a lot more.\nMagic Wand has the ability to process millions of data points simultaneously, and is designed to work best with categorical and textual features.\nDon’t miss out on this opportunity to upgrade your AI experience. Try Magic Wand today and take your data analysis to the next level!\nData Suggestions leverages the power of both machine learning and classical algorithms to analyze your data and identify any potential problems. By fixing these issues, you’ll be able to improve the value you create and optimize your performance significantly.\nWith Data Suggestions, you can expect to receive actionable recommendations that are tailored to your specific data, from data type casting, cleaning potential typos, currencies normalizations, to out-of-distribution values, and more, it will help you identify areas for improvement, so you can make the most of your data and get ahead of the competition.\nGet ready to take your results to the next level! We can’t wait for you to try it out and get your feedback!\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/news/wand-powers-ai-analytics-at-scale-using-snowflakes-data-cloud/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/news/wand-powers-ai-analytics-at-scale-using-snowflakes-data-cloud/",
+      "loadedTime": "2023-06-20 15:23:24",
+      "referrerUrl": "https://wand.ai/news/",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/news/wand-powers-ai-analytics-at-scale-using-snowflakes-data-cloud/",
+      "title": "Wand Powers AI Analytics at Scale Using Snowflake’s Data Cloud - Wand",
+      "description": "The modern business has a lot of data, but turning it into something valuable can be a challenge. We caught up with Wand, to see how it’s using AI to turn data into insight in a matter of hours. Today, organizations in all industries know the value of doing more with their data. But, actually […]",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\nThe modern business has a lot of data, but turning it into something valuable can be a challenge. We caught up with Wand, to see how it’s using AI to turn data into insight in a matter of hours.\nToday, organizations in all industries know the value of doing more with their data. But, actually putting data to work and turning it into the insights that matter can be a huge challenge. It’s expensive. It takes a lot of time. And after all that money and effort, 85% of data projects still fail.\nWand is on a mission to change that.\nFormed in 2022, the company provides a simple, SaaS-based drag and drop interface that democratizes AI data analytics, allowing everyone within the business to solve problems and create value faster.\nThe platform allows users to upload structured and unstructured data from any source, and then automatically cleans, standardizes, and organizes that data before answering user queries. The result? Time to insight is reduced from months to hours. And for a fraction of the cost.\n“A lot of people have access to data, but the power to create AI solutions normally sits with data scientists,” said Rotem Alaluf, Co-Founder and CEO at Wand. “Our goal is to bring the power to create AI analytics processes, at scale, to everyone. With Wand, non-technical users can build state-of-the-art AI solutions quickly and intuitively. Wand has customers of all sizes across all verticals.”\nWand’s objective was nothing short of a step-change for AI analytics, and the company knew it would need a robust, reliable, fast, and scalable data cloud at the heart of its operations.\n“We are fundamentally transforming the way AI is consumed,” said Philippe Chambadal, Co-Founder and CRO at Wand. “These processes would normally take twelve data scientists 18 months and cost millions. And you still wouldn’t be sure of the results. We provide better results at a lower cost in less time.”\nTo make sure this ambition was met, Snowflake has been powering the company’s bold new step in AI analytics since 2022.\nThe platform’s capabilities allow users to upload any kind of data from any source into = Snowflake’s infinitely scalable platform. The data is then aggregated, cleansed, and enhanced by Wand within the Snowflake’s platform before it’s sent to WandML—the magic component in the Wand platform that does the work of several data scientists in a matter of hours.\nFor the end user, of course, all of this happens out of sight. It provides an intuitive and easy-to-use experience that allows them to explore and export detailed results and turn data into value at lightning speed.\n“With Snowflake we have a centralized store of data from multiple sources, apps and cloud providers, which is in contrast with the current approach from most vendors,” said Chambadal. “Normally,  a custom use case is created to try and solve a specific problem. But that means you end up with dozens of bespoke deployments that don’t talk to each other. Our approach is completely different,  and changes the way you can consistently deploy models at scale—it’s true innovation.”\nEvery AI activity begins with good data, and Snowflake’s data controls, centralization, and collaboration capabilities have simplified things for Wand, ensuring the company can rapidly leverage data without the need for multiple solutions and re-implementations.\n“Time is money,” says Alaluf. “And sometimes, when you spend a lot of time developing things you can lose market share. With Snowflake we don’t have to develop a lot of tools, as multiple elements are taken care of for us.”\nIt’s not just simplicity that makes Snowflake so valuable to Wand, though. Alaluf cites the platform’s optimization for both analytics and data storage and the ability to work with semi-structured data as two other advantages that made it perfect for this deployment. Along with its seamless integration with other systems helping to avoid vendor lock-in.\n“Snowflake really helps us to provide faster value to our customers,” said Alaluf. “And it also means we are able to develop things faster internally. It’s played a major part in helping us to bring a complex solution to market really quickly.”\nIn fact, Wand was able to create its unique AI solution in just six months, and it was met with instant success. An astounding 1,500 users—including half of the global 500—signed up in the first week.\n“Our sales cycle speaks for itself,” said  Chambadal. “Instead of taking several months, it lasts about two weeks. People just see that the platform works and they’re instantly on board.”\nThe relationship between Snowflake and Wand has gone from strength to strength, and Wand will continue to rely on the platform to roll out new capabilities and develop its offering in the coming years.\n“The support we get from Snowflake is exceptional,” said Alaluf. “Any time we’ve had an issue, we’ve got answers in minutes. For a company that wants to move quickly and aggressively in the market, that ability to quickly figure out how we can take the next step is invaluable.”\nThe platform has also provided some nice tangential benefits, like the ability to attract new talent eager to work with the latest technology.“ Using state of the art, cutting-edge technologies is something that will always help us bring in new people,” Alaluf said. “We hear a lot in interviews about how interested people are in working with this stack. Ultimately, Snowflake has helped us create a product people believe in, and they know they can create value with the tools we have.”\nRead the post on Snowflake blog\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/news/some-fresh-news-about-wand/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/news/some-fresh-news-about-wand/",
+      "loadedTime": "2023-06-20 15:23:24",
+      "referrerUrl": "https://wand.ai/news/",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/news/some-fresh-news-about-wand/",
+      "title": "Some fresh news about Wand - Wand",
+      "description": "Nov 24, 2022 Our Platform continues improving with new features and processes to enable simple, quick and intuitive usage for our users. As you know, we are implementing new features based on users’ feedback every week. Hundreds of users have already created multiple AI solutions using the Wand Platform, helping us discover bugs and providing […]",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\nNov 24, 2022\nOur Platform continues improving with new features and processes to enable simple, quick and intuitive usage for our users. As you know, we are implementing new features based on users’ feedback every week. Hundreds of users have already created multiple AI solutions using the Wand Platform, helping us discover bugs and providing impactful suggestions on what we can improve!\nThe Wand Community on LinkedIn is incredibly growing! Now, 57k+ wands are already on our AI board. +7000 newcomers followed us in only 2 weeks! It’s a fantastic result, and we would have never achieved it without your support – your reactions, comments and shares. Many thanks to all our community for making Wand one of the fastest-growing LinkedIn communities in the IT world!\nWe just wanted to let you know that our Beta pre-registration is coming. The last preparations will end very soon, and people worldwide will get the opportunity to feel the magic of Wand.ai! Of course, we will share our joy and happiness with our community.\nThe Wand team will participate in the Snowflake BUILD event in Tel Aviv, Israel, on December 7th from 9:30 AM to 10:00 AM GMT +2. Join us on the panel\nFireside Chat with 3 Startups\n. Our CEO Rotem Alaluf together with leading entrepreneurs from Bright Data and Houseware will give you the inside scoop from fast-growing startups as they discuss building their products on Snowflake.\nJust register\nand see you there soon!\nDon’t miss a remarkable event from our friends and partners – UIIS 2022 WARSAW. It’s a Polish-Ukrainian-Israeli technology forum for international dialogue in an era of high risks. Our team will join the event which will bring together Ukrainian and Israeli entrepreneurs, technology businesses, and government and education representatives to share experiences and best practices, as well as strengthen cooperation between the countries.\nRegistration is already open\n, and all proceeds from online ticket sales will be donated to the Charity Foundation “ANTYTILA” for Ukrainian families who have suffered from the war after Russia’s full-scale invasion.\nHere, again and again, we will present you new Wand Platform features that will be available in the next few weeks on the Wand Platform! We are community-centric, so it is a pleasure to feel your vibe, and we will be happy to receive new requests from our community users!\nData preview allows customers to check the data flows in the pipeline at every step. Every block has a Data Preview button that prepares data and transformations for preview. This feature enables users to check their data before running the pipeline, thus discovering potential problems early in the process, before running Wand ML (our automated AI solution builder).\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/news/the-wand-platform-was-officially-released/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/news/the-wand-platform-was-officially-released/",
+      "loadedTime": "2023-06-20 15:23:25",
+      "referrerUrl": "https://wand.ai/news/",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/news/the-wand-platform-was-officially-released/",
+      "title": "The Wand Platform was officially released! - Wand",
+      "description": "This is a different newsletter from the others, as we are celebrating a very special event! We invite everyone to build powerful AI solutions and produce results in hours. New users get 50 Wand Units for free to test their ideas, identify and build hot use cases, and start creating value immediately. Wand is a […]",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\nThis is a different newsletter from the others, as we are celebrating a very special event!\nWe invite everyone to build powerful AI solutions and produce results in hours.\nNew users get 50 Wand Units for free to test their ideas, identify and build hot use cases, and start creating value immediately.\nWand is a no code AI platform that allows everyone, regardless of their AI technical skills, to build powerful AI solutions in a simple and intuitive way.\nAny data driven problem – you just need to bring the data (historical for training, and current data for production), and the Wand Platform will do the rest – it can be sales and marketing automation, detecting transaction fraud, predicting churn, improving the KYC process, detecting malwares, improving yield, and so on!\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/ccpa/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/ccpa/",
+      "loadedTime": "2023-06-20 15:23:25",
+      "referrerUrl": "https://wand.ai/privacy-policy/",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/ccpa/",
+      "title": "CCPA - Wand",
+      "description": "CCPA PRIVACY NOTICE [Last Modified: December 29, 2022]   applicability: The California Consumer Privacy Act of 2018 (“CCPA”), the California Privacy Rights Act of 2020 effective January 1, 2023 (“CPRA”), any other California privacy laws, and this CCPA Privacy Notice (“CCPA Notice”) applies to visitors, users which are California residents (“consumers” or “you”). Any terms […]",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\n[Last Modified: December 29, 2022]\n\napplicability:\nThe California Consumer Privacy Act of 2018 (“\nCCPA\n”), the California Privacy Rights Act of 2020 effective January 1, 2023 (“\nCPRA\n”), any other California privacy laws, and this CCPA Privacy Notice (“\nCCPA Notice\n”) applies to visitors, users which are California residents (“\nconsumers\n” or “\nyou\n”). Any terms defined in the CCPA and CPRA have the same meaning when used in this CCPA Notice. This CCPA Notice applies to California residents’ Personal Information, which we collect directly or indirectly while you are using our service or in order to provide our services, or employee and business-to-business Personal Information.\nThis CCPA Notice is an integral part of Wand Privacy Policy, and thus, definitions used herein shall have the same meaning as defined in the\nPrivacy Policy\n.\n\nPART I: A COMPREHENSIVE DESCRIPTION OF THE INFORMATION PRACTICES:\nWe collect Personal Information which is defined under the CCPA as any information that identifies, relates to, describes, references, is capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer, household or device, all as detailed in the table below. The definition of Personal Information further includes Sensitive Personal Information (“\nSPI\n”) as detailed in the table below.\nPersonal Information does not include: Publicly available information that is lawfully made available from government records, that a consumer has otherwise made available to the public; de-identified or aggregated consumer information; information excluded from the CCPA’s or CPRA’s scope, such as: Health or medical information covered by the Health Insurance Portability and Accountability Act of 1996 (HIPPA) and the California Confidentiality of Medical Information Act (CMIA) or clinical trial data; Personal information covered by certain sector-specific privacy laws, including the Fair Credit Reporting Act (FRCA), the Gramm-Leach-Bliley Act (GLBA) or California Financial Information Privacy Act (FIPA) and the Driver’s Privacy Protection Act of 1994.\nWand have collected the following categories of Personal Information within the period of the last twelve (12) months:\nCategory\nExample\nCollected\nA. Identifiers\n.\nA real name, alias, postal address, unique personal identifier, online identifier, Internet Protocol address, email address, account name, Social Security number, driver’s license number, passport number, or other similar identifiers.\nYes.\nOnline identifiers, Internet protocol address, real name, email address, account name.\nB. Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e)).\nA name, signature, Social Security number, physical characteristics or description, address, telephone number, passport number, driver’s license or state identification card number, insurance policy number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information, medical information, or health insurance information.\nSome personal information included in this category may overlap with other categories.\nYes.\nName, email address, address, telephone number, job title, payment details.\nC. Protected classification characteristics under California or federal law.\nAge (40 years or older), race, color, ancestry, national origin, citizenship, religion or creed, marital status, medical condition, physical or mental disability, sex (including gender, gender identity, gender expression, pregnancy or childbirth and related medical conditions), sexual orientation, veteran or military status, genetic information (including familial genetic information).\nNo.\nD. Commercial information.\nRecords of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies.\nYes:\nthe purchase history and transaction, however not the credit card or other payment information.\n\nE. Biometric information.\nGenetic, physiological, behavioral, and biological characteristics, or activity patterns used to extract a template or other identifier or identifying information, such as, fingerprints, faceprints, and voiceprints, iris or retina scans, keystroke, gait, or other physical patterns, and sleep, health, or exercise data.\nNo.\nF. Internet or other similar network activity.\nBrowsing history, search history, information on a consumer’s interaction with a website, application, or advertisement.\nYes:\nclick stream and use of the website, Services and Platform.\n\nG. Geolocation data.\nPhysical location, approximate location derived from IP address or movements.\nYes:\napproximate location extracted from the IP, or address provided by users.\n\nH. Sensory data.\nAudio, electronic, visual, thermal, olfactory, or similar information.\nNo.\nI. Professional or employment-related information.\nCurrent or past job history or performance evaluations.\nNo.\n\nJ. Non-public education information (per the Family Educational Rights and Privacy Act (20 U.S.C. Section 1232g, 34 C.F.R. Part 99)).\nEducation records directly related to a student maintained by an educational institution or party acting on its behalf, such as grades, transcripts, class lists, student schedules, student identification codes, student financial information, or student disciplinary records.\nNo.\n\nK. Inferences drawn from other personal information.\nProfile reflecting a person’s preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes.\nNo.\n\nL. Sensitive personal information.\nGovernment-issued identifying numbers, financial account details, genetic data, precise geolocation, race or ethnicity, religious or philosophical beliefs, union membership, mail, email, text messages, biometric data, health data, and sexual orientation or sex life.\nNo.\n\n\nWe collect Personal Information from the following sources:\n\nWe may use the Personal Information collected for the following purposes:\nWe will not collect additional categories of Personal Information or use the Personal Information we collected for materially different, unrelated, or incompatible purposes without providing you notice.\n\nWe may disclose your Personal Information to a contractor or service provider for a business purpose. When we disclose Personal Information for a business purpose, we enter a contract that describes the purpose and requires the recipient to both keep that Personal Information confidential and not use it for any purpose except performing the contract. We further restrict the contractor and service provider from selling or sharing your Personal Information. In the preceding twelve (12) months, we disclosed the following categories of Personal Information for a business purpose:\n\nCategory (corresponding with the table above)\nCategory of Recipient\nBusiness Purpose\n1\nCategory A\nCategory B\nCategory D\nCategory F\nCategory G\nCloud Computing and Storage\nStorage, hosting.\n2\nOperating Systems\nOperating the services\n3\nGovernment Entities/Law Enforcement\nSubject to a lawful request\n4\nCategory A\nCategory F\nCategory G\nData Analysis Vendors\n\nProviding analytic data on the use of our Platform and Services.\n5\nCategory A\nCategory B\nService Providers\nImproving the Services, development and optimization\n7\nCategory A\nCategory B\nSecurity Service Providers\nDebugging, security, fraud prevention.\n8\nCategory A\nCategory B\nPartners\nTo provide the Services.\n\nWe do not “sell” information as most people would commonly understand that term, we have not (in the previous 12 months), do not, and will not, disclose your Personal Information in direct exchange for money or some other form of payment.\nFor retargeting and analytic purposes, when we promote our Services, we use third-party tools that are able to market and advertise our Services online (“\nAdvertising Campaigns\n”), measure those Campaigns, identify individuals that are interested in our Services, etc. this is done by placing cookies, pixel or other tracking technology on our Platform and sharing with these vendors the online identifiers and online behavior information.\nThe CCPA defines “sharing” as “communicating orally, in writing, or by electronic or other means, a consumer’s personal information” to “a third party for cross-context behavioral advertising, whether or not for money or other valuable consideration”.  In other words, we may share your Personal Information with a third party to help promote our Services, conduct our Advertising Campaigns, and understand your use of our Platform.\nIn the preceding twelve (12) months, we “sell” or “share” the following categories of Personal Information for a business purpose:\nCategory (corresponding with the table above)\nCategory Recipient\nPurpose of Sale or Share\nCategory A\nMarketing tools and vendors.\nShare for targeted advertising.\n\n\nWe do not knowingly collect information from children under the age of 16.\n\nIn general, we retain the Personal Information we collect for as long as it remains necessary for the purposes set forth above, all under the applicable regulation, or until you express your preference to opt-out, where applicable.\nWe determine the retention period of each category of Personal Information we collect, according to the criteria explained below:\nPlease note that except as required by applicable law, we will not be obligated to retain your Personal Information for any particular period, and we may delete it for any reason and at any time, without providing you with prior notice if our intention to do so.\n\nPART II: YOUR RIGHTS UNDER THE CCPA AND HOW YOU CAN EXERCISE THEM\nIf you are a California resident, you may exercise certain rights related to your Personal Information. You may exercise your rights free of charge except as otherwise permitted under applicable law. We may limit our response to your request to exercise of these privacy rights as permitted under applicable law, all as detailed herein and the Data Subject Request Form available\nHERE\n.\nCalifornia Privacy Right\nDetails\nThe Right to Know What Personal Information the Business Has Collected.\nThe right to know what Personal Information the business has collected about the consumer, including the categories of Personal Information, the categories of sources from which the Personal Information is collected, the business or commercial purpose for collecting, selling, or sharing Personal Information, the categories of third parties to whom the business discloses Personal Information, and the specific pieces of Personal Information the business has collected about the consumer.\nDeletion Rights.\nThe right to request the business to delete Personal Information that it has collected from the consumer, subject to certain exceptions.\nCorrect Inaccurate Information\nThe right to request to correct inaccurate Personal Information that a business maintains about a consumer.\nOpt-Out of Sharing Personal Information for Cross-Contextual Behavioral Advertising\nThe right to opt-out of the “sharing” of your Personal Information for “cross-contextual behavioral advertising” (also referred to as “interest-based advertising” or “targeted advertising”.)\nOpt-Out from Selling Personal Information\nThe right to opt-out of the sale of Personal Information by the business.\nLimit The Use or Disclosure of Sensitive Personal Information\nUnder certain circumstances, If the business uses or discloses SPI, you have the right to request to limit the use or disclosure of SPI by the business.\nOpt-Out of The Use of Automated Decision Making\nIn certain circumstances, you have the right to opt-out of the use of automated decision making in relation to your Personal Information.\nNon-Discrimination\nThe right not to receive discriminatory treatment by the business for the exercise of privacy rights under the CCPA, including an employee’s, applicants, or independent contractor’s right not to be retaliated against for the exercise of their CCPA rights, denying a consumer goods or services, charging different prices or rates for goods or services, providing you a different level or quality of goods or services, etc. We may, however, charge different prices or rates, or provide a different level or quality of goods or services, if that difference is reasonably related to the value provided to us by your Personal Information.\nData Portability\nThe right to request a copy of your Personal Information, including specific pieces of Personal Information, including, where applicable, to obtain a copy of the Personal Information you provided to a business in a portable format.\n\nTo learn more about your California privacy rights, please visit\nhttps://oag.ca.gov/privacy/privacy-laws\n.\nWe provide a cookie banner and consent management that incorporates a browser setting that notifies our Platform of your privacy preferences regarding automated collection of Personal Information through use of cookies. You may opt out of “sharing” or “selling” of your Personal Information associated to our use of third party analytic and marketing cookies, through our\nCookie Setting\ntool.\nYou may further exercise your rights by using the Data Subject Request Form (“\nDSR Form\n”) available\nHERE\n. The DSR Form further provides instructions for submitting, general description of the process, verification requirements, and the information we will request you to provide.\n\n“Authorized Agents” may submit opt out requests on a consumer’s behalf. If you have chosen to use an authorized agent to submit requests, or if you are an authorized agent and you wish to submit a request on behalf of a consumer, please follow the procedure detailed below which required prior to acceptance of any requests by an authorized agent on behalf of a California consumer. Usually, we will accept requests from qualified third parties on behalf of other consumers, regardless of either the consumer or the authorized agent’s state of residence, provided that the third party successfully completes the following qualification procedures:\nWe do not offer financial incentives to consumers for providing Personal Information.\n\n\nWand Inc.\n[email protected]\n\nThis privacy notice was last updated on the date indicated on the header above. As required under the CCPA, we will\nupdate\nthe CCPA Notice\nevery 12 months\n. The last revision date will be reflected in the “Last Modified” heading at the top of this CCPA Notice.\n\nPART III: OTHER CALIFORNIA RIGHTS AND OBLIGATIONS\nDirect Marketing Requests:\nCalifornia Civil Code Section 1798.83 permits California resident to request certain information regarding disclosure of Personal Information to third parties for their direct marketing purposes. To make such a request, please use the Data Subject Request Form available\nHERE\n.\nDo Not Track Settings:\n“Do Not Track” signal is a privacy preference you can set in your web browser to indicate that you do not want certain information about your web page visits tracked and collected across websites. For more details, including how to turn on Do Not Track, visit:\nwww.donottrack.us\n. Cal. Bus. and Prof. Code Section 22575 requires us to notify you how we deal with the “Do Not Track” settings in your browser. As of the effective date above, there is no commonly accepted response for Do Not Track signals initiated by browsers. Therefore, we do not respond to the Do Not Track settings.\nCalifornia’s “\nShine the Light\n” law\n(Civil Code Section § 1798.83)\n:\nPermits California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send us the Data Subject Request Form available\nhere\n.\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/news/introducing-a-new-feature-our-new-solution-building-wizard/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/news/introducing-a-new-feature-our-new-solution-building-wizard/",
+      "loadedTime": "2023-06-20 15:23:25",
+      "referrerUrl": "https://wand.ai/news/",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/news/introducing-a-new-feature-our-new-solution-building-wizard/",
+      "title": "Introducing a new feature - our new solution-building wizard! - Wand",
+      "description": "Today, bringing AI solutions to production is a complex, multi-phase process that takes months or even years… With Wand you cut this down to hours, so companies can bring advanced data science capabilities to the business users—leading to faster impact than ever before. From a user’s perspective—DATA is all you need. Everything else is automated […]",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\nToday, bringing AI solutions to production is a complex, multi-phase process that takes months or even years… With Wand you cut this down to hours, so companies can bring advanced data science capabilities to the business users—leading to faster impact than ever before.\nFrom a user’s perspective—DATA is all you need. Everything else is automated by the platform.\nThe Wand platform provides a complete end-to-end solution and makes it very easy for anyone—regardless of their technical comfort level—to use the platform.\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/docs/the-wand-plans/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/docs/the-wand-plans/",
+      "loadedTime": "2023-06-20 15:23:25",
+      "referrerUrl": "https://wand.ai/docs/about-wand/",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/docs/the-wand-plans/",
+      "title": "The Wand Plans - Wand",
+      "description": "Plans The free plan includes 25 Wand Units if users fill a questioner. For example, a user can run a training for 10 Wand Units, create a production system, and make prediction, twice a day (assuming that each time takes less than an hour) and creating value for 20 days, before moving to the paid […]",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\nThe free plan includes 25 Wand Units if users fill a questioner. For example, a user can run a training for 10 Wand Units, create a production system, and make prediction, twice a day (assuming that each time takes less than an hour) and creating value for 20 days, before moving to the paid version.\nWhen the free Wand Units run out, you can purchase new units with a Credit Card.\nYou can check your consumption of Wand Units in Profile >\nBalance and Plans\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/docs/smartphone-price-segmentation/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/docs/smartphone-price-segmentation/",
+      "loadedTime": "2023-06-20 15:23:25",
+      "referrerUrl": "https://wand.ai/docs/about-wand/",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/docs/smartphone-price-segmentation/",
+      "title": "Smartphone Price Segmentation - Wand",
+      "description": "The mission is to produce a price range for each segment of smartphones based on features and combinations of features. You could try this demo case inside the Wand.",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\nThe mission is to produce a price range for each segment of smartphones based on features and combinations of features.\nYou could try this demo case\ninside the Wand\n.\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/dsr-request-form/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/dsr-request-form/",
+      "loadedTime": "2023-06-20 15:23:26",
+      "referrerUrl": "https://wand.ai/privacy-policy/",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/dsr-request-form/",
+      "title": "DSR-request-form - Wand",
+      "description": "DSR Request Form",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/docs/wand-glossary/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/docs/wand-glossary/",
+      "loadedTime": "2023-06-20 15:23:26",
+      "referrerUrl": "https://wand.ai/docs/about-wand/",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/docs/wand-glossary/",
+      "title": "Wand Glossary - Wand",
+      "description": "Accuracy – In a classification task, accuracy is a measure of how well a machine learning model is able to predict the class labels for a given set of data. It is calculated as the number of correct predictions made by the model, divided by the total number of predictions. For example, if a model […]",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\nAccuracy\n– In a classification task, accuracy is a measure of how well a machine learning model is able to predict the class labels for a given set of data. It is calculated as the number of correct predictions made by the model, divided by the total number of predictions. For example, if a model is trained to predict whether an email is spam or not spam, and it makes 1000 predictions, with 950 of them being correct, then the model’s accuracy is 950/1000*100% = 95%. Accuracy can be a useful metric for evaluating the performance of a classification model, but it is important to note that it can be misleading in some cases. This is because it does not take into account the relative costs of different types of errors. For example, if a model is trained to predict whether a patient has a rare illness or not, it can frequently predict that a patient does not have the illness when they actually do have it, and still have high accuracy (because illness is a rare event).\nAI model\n– an AI model is the output of the training environment run – The model learns patterns in your historical data in order to make predictions and provide additional analytics for your current and future data.\nAI task\n– an AI (in particular, Machine Learning) task is a specific problem that a machine learning model is designed to solve. There are many different types of AI tasks, including Classification, Regression, Clustering, Dimensionality reduction, Anomaly detection, etc.\nWand Hierarchy explained.\n\nBinary Classification\n– a type of AI task that predicts only 2 options – 0 and 1 (or in other format yes / no).\nBlock\n– a block represents one of the possible components within a pipeline. When a pipeline is running, the data flows between blocks connected with each other via input and output ports.\nClassification\nis a task in which the model is given a set of labeled data and is asked to predict the class label for a new, unseen sample. For example, a classifier might be trained to predict whether an email is spam or not spam. Classification is called Binary on the platform if there are exactly two classes to predict, one identified as positive and another as negative. The following pairs of labels (after converting to string and lower case) are identified as positive-negative: “true”/”false”, “yes”/”no”, “positive”/”negative”, “1”/”0″, “1.0”/”0.0″, “1.0”/”0″, “1”/”0.0″, “1”/”-1″, “1.0”/”-1.0″, “1”/”-1.0″, “1.0”/”-1″. Otherwise, classification is referred to as Multiclass.\nConfidence\n– refers to the probability that a model’s prediction is correct. A model with high confidence in its predictions is more likely to be accurate, while a model with low confidence is less likely to be accurate. The Wand Platform provides confidence estimates for each prediction.\nCron\n– is part of an environment, which allows you to set up automatic runs of the environment at specified times.\nData connectors\n– a block in pipeline that allows users to connect databases such as Snowflake etc\nData Quality\nrefers to the characteristics of the data that you use to train your models. The quality of the data significantly impacts the accuracy and performance of the model. Some factors that can affect the quality of data for machine learning include:\nDeploy\nis the process of publishing elements of one environment (AI model, pipeline, settings) into another.\nEnvironment\nis an entity that represents a specific step in the AI lifecycle.\nMore about Wand Hierarchy\n\nExperiment\nis an entity that represents all the steps in the AI lifecycle for one data schema.\nMore about Wand Hierarchy\n\nExplainability\n– in machine learning refers to the ability of a model to provide explanations for its predictions. Our model provides two types of explainability: a local and a global one. The local one explains the model’s prediction for each individual sample. To each feature of the sample, we assign importance which quantifies the contribution of this feature to the prediction. Positive importance of a feature indicates that its value for the considered sample increases the probability of a predicted class in classification tasks or increases the predicted numerical value in regression tasks. Negative importance implies the opposite. The global one represents aggregate feature importance of the whole dataset on which predictions are done. Unlike individual samples, the global feature importance is always nonnegative and tells how much in average the corresponding feature was used by the model for making predictions.\nInput port\n– a block element that provides the ability to transfer data to this block from the previous one in the pipeline. Via the name of the input port you can refer to the dataset, e.g. inside a SQL transformation block.\nMulticlass classification\n– type of AI task that predicts classes like high, medium, low.\nOutput port\nof a block provides the ability to transfer data from this block to the next one in the pipeline.\nPipeline\nis a series of processes represented by blocks connected in sequence, with the output of one block serving as the input for the next. A typical pipeline might include blocks such as uploading files, connecting to databases, transforming data, training an AI model, or generating predictions and analytics.\nPlayground\n– See Training Playground\nPredefined Transformations\nis a block within a pipeline that contains a graphical interface with which you can define a specific data transformation. An example of such a block is “Join 2 sources”, which allows you to merge two data sources into one table according to the rules you specify.\nProduction\n– environment\n\nwhere user generate predictions for their data.\nMore about Wand Hierarchy\n\nRegression\n– is a task in which the model is given a set of labeled data and is asked to predict a continuous numerical value for a new, unseen example. For example, a regression model might be used to predict the price of a house based on its size, location, and other features.\nReports\nare CSV files containing results of successful runs. You can configure conditions and filters for email messages containing a link to download reports.\nRuns\nare the action of running each environment again to create the relevant output.\nSolution\nis an entity that represents a business problem you would like to solve using the Wand Platform.\nMore about Wand Hierarchy\n\nStaging\n– optional environment\n\nwhich users deploy a model for testing purposes.\nMore about Wand Hierarchy\n\nSQL Transformation\nis a process in which data is transformed using Structured Query Language (SQL). In the context of machine learning, SQL transformations might be used to prepare data for model training or evaluation. On the platform, it is represented by one of the blocks within a pipeline.\nTraining Playground\n– environment\n\nwhere users bring a training data in order to create the AI model.\nMore about Wand Hierarchy\n\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/docs/solution/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/docs/solution/",
+      "loadedTime": "2023-06-20 15:23:26",
+      "referrerUrl": "https://wand.ai/docs/about-wand/",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/docs/solution/",
+      "title": "Solution - Wand",
+      "description": "Solution is an entity that represents a business problem you would like to solve using the Wand Platform. Solution is the highest entity in our hierarchy. Examples for solutions can be Customer Retention, KYC, etc. A Solution consists of several AI Tasks that are related to each other. In the example of Customer Retention, AI […]",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\nSolution is an entity that represents a business problem you would like to solve using the Wand Platform. Solution is the highest entity in our hierarchy. Examples for solutions can be Customer Retention, KYC, etc. A Solution consists of several\nAI Tasks\nthat are related to each other. In the example of Customer Retention,\nAI tasks\ncould be Customer Churn Risk and Customer Satisfaction Estimation. Both tasks can help you improve your customer retention. We created the solution level in order to simplify sharing\nAI tasks\nthat are related, utilizing the same data source(s), and combining multiple\nAI tasks\n. In the simplest way, you can think about Solutions as a folder that contains related\nAI tasks\n, exactly as you have in your computer. You can create a Solution for any department or any business problem you would like to solve with the Wand Platform.\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/docs/environment/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/docs/environment/",
+      "loadedTime": "2023-06-20 15:23:26",
+      "referrerUrl": "https://wand.ai/docs/about-wand/",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/docs/environment/",
+      "title": "Environment - Wand",
+      "description": "Environment is an entity in the Wand Hierarchy being part of an Experiment. There are three types of environments: Training Playground, Staging, and Production representing, respectively, training step, staging step, and production step. Each of them consists of the following:",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\nEnvironment is an entity in the\nWand Hierarchy\nbeing part of an Experiment. There are three types of environments:\nTraining Playground\n,\nStaging\n, and\nProduction\nrepresenting, respectively, training step, staging step, and production step. Each of them consists of the following:\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/docs/wand-units-charging-examples/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/docs/wand-units-charging-examples/",
+      "loadedTime": "2023-06-20 15:23:26",
+      "referrerUrl": "https://wand.ai/docs/about-wand/",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/docs/wand-units-charging-examples/",
+      "title": "Wand Units Charging examples - Wand",
+      "description": "Charging Examples",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/docs/pipeline/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/docs/pipeline/",
+      "loadedTime": "2023-06-20 15:23:26",
+      "referrerUrl": "https://wand.ai/docs/about-wand/",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/docs/pipeline/",
+      "title": "Pipeline - Wand",
+      "description": "Pipeline is a series of processes represented by blocks connected in sequence, with the output of one block serving as the input for the next. A typical pipeline includes blocks such as: Data sources We support the following data sources: You can drag and drop the source block and configure it with the left bar […]",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\nPipeline is a series of processes represented by blocks connected in sequence, with the output of one block serving as the input for the next. A typical pipeline includes blocks such as:\nWe support the following data sources:\nYou can drag and drop the source block and configure it with the left bar menu. “Upload File” for files and “Configure” for databases. We suggest you to try Wand with files: your imported CSV file first or get some case from\nKaggle Data Sets\n.\nOnce the data is uploaded, you can review it in Sneakpeek page. The page shows all columns, their types and some sample data.\nThe configuration of external databases is unique to each one. Please input your credentials for Snowflake, PostgreSQL, CloudSQL, BigQuery to connect data to the Wand platform.\nWe support 2 types of transformations:\nIf users want to connect several data sources into one block, they could use Join 2 Sources or add extra input ports to Raw SQL block and join them manually with code.\nRaw SQL supports the SQL syntax. To connect all data sources into one transformation, please add extra input ports to the transformation block.\nNote! Users have to refer in the SQL code to Connector names – not the DB name. To quickly copy/paste the Port name, please use the copy button on the Port block on the right.\nPredefined Join 2 sources allows users to join 2 Data Sources. Just drag and drop it on the canvas and go to Configuration. Note! You can join sources once have connected data sources blocks with the Join block.\nYou can check the result of the transformation in the block menu with the Data Preview button.\nWand is adding more data sources and more transformations continuously.\nYou can define which type of AI task and what prediction key to use in Wand ML block. It should be connected to some data source – to enable prediction key selector.\nTypes of AI tasks could be:\nSome datasets need to be trained for hours. If users want to get quick results – they can set a limit on the training time.\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/docs/what-is-wand-units/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/docs/what-is-wand-units/",
+      "loadedTime": "2023-06-20 15:23:26",
+      "referrerUrl": "https://wand.ai/docs/about-wand/",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/docs/what-is-wand-units/",
+      "title": "What is a Wand Unit - Wand",
+      "description": "Alike the cloud vendors, Wand charges on compute consumption. This enables you to test the system without the expense and budgeting of an upfront software license, and run it in production once you are satisfied with the results. Wand Units A Wand Unit (“WU”) is a normalized unit of compute. 1 WU is equivalent to […]",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\nAlike the cloud vendors, Wand charges on compute consumption. This enables you to test the system without the expense and budgeting of an upfront software license, and run it in production once you are satisfied with the results.\nA Wand Unit (“WU”) is a normalized unit of compute. 1 WU is equivalent to a 1 hour run on our default machine.\nEach time the environment runs, Wand switches this environment into live mode for 1 hour and charges 1 Wand Unit. If the run takes longer than 1 hour, another Wand unit is charged for the next hour, and so on. As long as the environment is live, the user can perform multiple actions within the same environment without extra charge.\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/docs/experiment/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/docs/experiment/",
+      "loadedTime": "2023-06-20 15:23:26",
+      "referrerUrl": "https://wand.ai/docs/about-wand/",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/docs/experiment/",
+      "title": "Experiment - Wand",
+      "description": "Experiment is an entity that represents all the steps in the AI lifecycle. Experiment’s goal is to answer your question with the data and settings you bring. You can run multiple Experiments within each AI task – and try to bring different types of data or make different data transformations in order to answer the […]",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\nExperiment is an entity that represents all the steps in the AI lifecycle. Experiment’s goal is to answer your question with the data and settings you bring. You can run multiple Experiments within each\nAI task\n– and try to bring different types of data or make different data transformations in order to answer the same question and see which one works best. The first Experiment in your AI task will be created automatically. Each run within an Experiment must have the same data schema after all (optional) transformations. Each Experiment consists of several\nEnvironments\n:\nTraining Playground\n,\nStaging\n(optional), and\nProduction\n.\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/docs/wand-hierarchy/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/docs/wand-hierarchy/",
+      "loadedTime": "2023-06-20 15:23:26",
+      "referrerUrl": "https://wand.ai/docs/about-wand/",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/docs/wand-hierarchy/",
+      "title": "Wand Hierarchy - Wand",
+      "description": "Entities in the Wand AI platform Wand hierarchy diagram",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\nEntities in the Wand AI platform\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/docs/login-and-password-recovery/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/docs/login-and-password-recovery/",
+      "loadedTime": "2023-06-20 15:23:26",
+      "referrerUrl": "https://wand.ai/docs/about-wand/",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/docs/login-and-password-recovery/",
+      "title": "Sign up and Sign in - Wand",
+      "description": "Sign Up Users register to Wand with their email on the Sign Up page: Next step is the verification of your email. If there is no email from us in your inbox – please check your spam folder or retry.",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\nUsers register to Wand with their email on the\nSign Up page\n:\nNext step is the verification of your email. If there is no email from us in your inbox – please check your spam folder or retry.\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/docs/financial-churn-risk/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/docs/financial-churn-risk/",
+      "loadedTime": "2023-06-20 15:23:26",
+      "referrerUrl": "https://wand.ai/docs/about-wand/",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/docs/financial-churn-risk/",
+      "title": "Financial Churn Risk - Wand",
+      "description": "Wand’s mission is to predict which customers have the highest probability of leaving the Bank and make it easier for customer service to improve the service with these customers and convince them to stay with the Bank. You could try this demo case inside the Wand.",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\nWand’s mission is to predict which customers have the highest probability of leaving the Bank and make it easier for customer service to improve the service with these customers and convince them to stay with the Bank.\nYou could try this demo case\ninside the Wand\n.\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/docs/ai-task/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/docs/ai-task/",
+      "loadedTime": "2023-06-20 15:23:26",
+      "referrerUrl": "https://wand.ai/docs/about-wand/",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/docs/ai-task/",
+      "title": "AI task - Wand",
+      "description": "An AI task is an entity in a broader logical group called a Solution. For example the Solution “Customer Retention”, might include AI tasks of estimating customer satisfaction, customers’ life time value, and customers’ churn risk. You have to create a Solution before creating AI tasks. We recommend to provide an AI task with a […]",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\nAn AI task is an entity in a broader logical group called a\nSolution\n. For example the Solution “Customer Retention”, might include AI tasks of estimating customer satisfaction, customers’ life time value, and customers’ churn risk. You have to create a\nSolution\nbefore creating AI tasks.\nWe recommend to provide an AI task with a meaningful name such as “Churn Risk Estimation”. An AI task consists of\nExperiments\n. Each experiment’s goal is to answer your question with the data and settings you bring. You can run multiple experiments within each AI task – and try to bring different types of data or make different data transformations in order to answer the same question and see which one works best. The first\nExperiment\nin your AI task will be created automatically.\nAfter creating an AI task, Wand redirects you to the\nTraining Playground\n, where you create a\ndata pipeline\nand train an AI model to use it for predictions. You can create a\npipeline\nin a drag and drop manner by connecting different data sources, transformations, and the Wand ML block, which will perform the ML process end to end.\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/docs/payments/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/docs/payments/",
+      "loadedTime": "2023-06-20 15:23:27",
+      "referrerUrl": "https://wand.ai/docs/about-wand/",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/docs/payments/",
+      "title": "Payments - Wand",
+      "description": "Wand charges customers Wand Units. Top-up is available with a Credit card. Press the Buy Wand Units button in Profile > Subscription page. Select how many WUs you need. Follow the instruction of the payment service and proceed with the payment. Once the payment is processed, the Wand Units balance will be updated.",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\nWand charges customers Wand Units. Top-up is available with a Credit card.\nPress the Buy Wand Units button in Profile >\nSubscription page\n. Select how many WUs you need.\nFollow the instruction of the payment service and proceed with the payment.\nOnce the payment is processed, the Wand Units balance will be updated.\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/news/wand-receives-soc2-certification/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/news/wand-receives-soc2-certification/",
+      "loadedTime": "2023-06-20 15:23:27",
+      "referrerUrl": "https://wand.ai/news/",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/news/wand-receives-soc2-certification/",
+      "title": "Wand receives SOC2 certification - Wand",
+      "description": "Tel Aviv – January 12th, 2023 Wand announced today that it has successfully completed its Service Organization Control (SOC) 2, Type 1 certification. The SOC 2 is an auditing standard developed by the American Institute of Certified Public Accounts (AICPA). Successful completion of the SOC 2 audit further validates Wand focus on security and compliance, […]",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\nTel Aviv – January 12th, 2023\nWand announced today that it has successfully completed its Service Organization Control (SOC) 2, Type 1 certification. The SOC 2 is an auditing standard developed by the American Institute of Certified Public Accounts (AICPA). Successful completion of the SOC 2 audit further validates Wand focus on security and compliance, demonstrating a major milestone for the company.\nSOC 2 defines criteria for managing customer data based on five trust service principles: security, availability, processing integrity, confidentiality and privacy. Certification demonstrates a company’s ability to not only implement critical security policies but also prove compliance over an extended period of time.\nWand is a no-code AI platform that allows technical and non-technical users to build AI solutions 100x faster and cheaper than any other method, with state-of-the-art results. Wand charges on computing – no upfront licensing fee. Pilots are not necessary as users can try the platform and create value quickly:\nhttps://bit.ly/3VGAksZ\nIn terms of differentiation, Wand offers:\nWand users are data analysts, business analysts, product owners, and heads of functional units. They have access to large data sets but struggle to identify signals and produce calls-to-actions and value with existing tools. And because their knowledge of AI might be limited, they are not able to create fast and impactful value from AI. Wand simply gives them AI superpowers and allows them to create solutions quickly and with tangible results.\nVisit\nwand.ai\nto discover the AI platform for everyone.\nAccess to the platform:\nhttps://bit.ly/3VGAksZ\nJoin our 60,000+ strong community on\nLinkedin\n.\nAbout Wand\nWand was founded with a clear mission – to enable everyone, regardless of their technical skills, to solve complex business problems and produce tangible ROI using AI. Wand is a no-code AI platform targeting 750 million business users. Time to production is between a few hours to a few days.\nWand is an end-to-end, self-service platform, covering everything from DataOps to MLOps. The core technology, WandML, automates the whole process required to create a business solution using AI.\nStay connected with us at\nhttps://wand.ai/contact/\nand\nhttps://www.linkedin.com/company/wand1/\n.\nMedia Contact:\nWand\nPhilippe Chambadal\n[email protected]\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/docs/password-recovery/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/docs/password-recovery/",
+      "loadedTime": "2023-06-20 15:23:27",
+      "referrerUrl": "https://wand.ai/docs/about-wand/",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/docs/password-recovery/",
+      "title": "Password recovery - Wand",
+      "description": "Password recovery is available from the Forgot password page. The system will email you instructions for recovery. Changing password is possible at any time from your account. Go to Profile > Security > Change password",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\nPassword recovery is available from the\nForgot password page\n. The system will email you instructions for recovery.\nChanging password is possible at any time from your account. Go to Profile >\nSecurity > Change password\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/docs-category/billing/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/docs-category/billing/",
+      "loadedTime": "2023-06-20 15:23:27",
+      "referrerUrl": "https://wand.ai/docs/the-wand-plans/",
+      "depth": 3,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/docs-category/billing/",
+      "title": "Billing Archives - Wand",
+      "description": "",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/docs/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/docs/",
+      "loadedTime": "2023-06-20 15:23:27",
+      "referrerUrl": "https://wand.ai/docs/about-wand/",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/docs/",
+      "title": "Docs Archive - Wand",
+      "description": "",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/docs/report/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/docs/report/",
+      "loadedTime": "2023-06-20 15:23:27",
+      "referrerUrl": "https://wand.ai/docs/about-wand/",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/docs/report/",
+      "title": "Report - Wand",
+      "description": "Creating email reports is a powerful feature that allows you to share the results of an AI task with multiple stakeholders via emails. Reports also allow you to define what information is shared, using filters and conditions that can be applied on the results before sharing. Reports can be sent according to a calendar or […]",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\nCreating email reports is a powerful feature that allows you to share the results of an AI task with multiple stakeholders via emails. Reports also allow you to define what information is shared, using filters and conditions that can be applied on the results before sharing. Reports can be sent according to a calendar or together with the Cron work.\nThe report can be set with if/then conditions such as “only new predictions” or send only samples that are equal / greater / smaller than a given value.\nFor example, the Wand Platform can produce a report once a week for the customer success manager with a list of customers with a high risk of churn.\nThe result will be received in an email in CSV format that can be consumed by other systems (Salesforce, Excel, PowerBI, etc).\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/docs/staging-and-production/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/docs/staging-and-production/",
+      "loadedTime": "2023-06-20 15:23:27",
+      "referrerUrl": "https://wand.ai/docs/about-wand/",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/docs/staging-and-production/",
+      "title": "Staging and Production - Wand",
+      "description": "Staging and Production are Environments, which share similar properties, but serve different purposes. Staging is a place where you build the pipeline with the trained AI model for testing purposes. Staging can be used to try out the AI task with a small amounts of users, or on internal users, before moving it to production. […]",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\nStaging and Production are\nEnvironments\n, which share similar properties, but serve different purposes. Staging is a place where you build the pipeline with the trained AI model for testing purposes. Staging can be used to try out the AI task with a small amounts of users, or on internal users, before moving it to production. Staging has the same properties as Production and thus enables you to simulate your real production runs. Staging cannot be created before you create a trained model in your\nTraining Playground\n.\nProduction is a place where you build the pipeline with the trained AI model for solving your business task. Production environment cannot be created before you create the model in your training environment, but it can exist without a staging environment, which is optional.\nEach run of Staging or Production generates predictions and additional analytics for your data. You can make predictions in real time, automate with the cron scheduler, or obtain predictions on demand by manually running the\nPipeline\n.\nThere are multiple ways to deploy an AI model to Staging. You can deploy an AI model by choosing it from a list of trained models on the\nExperiment\npage or deploy it from the results page of the corresponding training run. At the first time, deployment to Staging copies the whole\nPipeline\n, including the trained AI model and the data sources. You have to reconfigure the data source blocks, and possibly the transformation blocks, to use data relevant for staging. In the second time, you can just switch the trained AI model itself from the experiment management page.\nYou can deploy your model to Production in the same way as you do it for Staging. However, we recommend to deploy your model to Production from Staging rather than directly from\nTraining environment\n, in which case you may use the Pipeline, including data source and transformation blocks, validated in Staging. In this case, there is no need to reconfigure it unless you want to change your data source. When you deploy from Staging to Production, you can explicitly specify whether you want to copy the whole Pipeline, Cron Schedule and Report settings from Staging as well.\nBoth for Staging and Production, it is important that the structure of the data entering the Wand ML block remains compatible with the one for training. In particular, all column names and data types, except for the column with prediction key, must match column names and types used for training. Any additional column, including the one with the prediction key, are allowed in Staging and Production, but will be ignored by the AI model during prediction.\nBoth in Staging and Production, the Wand ML block in\nPipeline\ncannot be reconfigured as it uses an already trained AI model. If you want to retrain or create a new model, you can go back to the\nTraining Playground\nin the dropdown menu.\nThe results page contains a results table and aggregated box metrics for a given dataset. The results table contains predictions for each sample (i.e. each row of a given dataset), along with the AI model’s confidence and the quality of features. In the table of results, you have the option to add or hide columns from the original dataset. Additionally, you can choose which prediction columns to display or hide.\nExplainability in machine learning refers to the ability of a model to provide explanations for its predictions. Our model provides two types of explainability: a local and a global one.\nThe local one explains the model’s prediction for each individual sample. By clicking the “i” symbol, you can open the local explainability interface for any row in the results table. To each feature of the sample, we assign importance which quantifies the contribution of this feature to the prediction. Positive importance (plotted in green) of a feature indicates that its value for the considered sample increases the probability of predicted class in classification tasks or increases the predicted numerical value in regression tasks. Negative importance (plotted in blue) implies the opposite.\nThe global explainability represents aggregate feature importance for the whole dataset on which predictions are done. Unlike for individual samples, global feature importance is always nonnegative and tells how much in average the corresponding feature was used by the model for making predictions. The global explainability interface is accessible by clicking the global explainability button on the result table.\nCron allows you to set up automatic runs of Staging and Production environments at specified times and frequencies. It will automatically acquire new data from the connected data source(s), execute the\nPipeline\nand store the results, which you can look up later on the results page of the corresponding environment.\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/docs/marketing-automation/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/docs/marketing-automation/",
+      "loadedTime": "2023-06-20 15:23:27",
+      "referrerUrl": "https://wand.ai/docs/about-wand/",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/docs/marketing-automation/",
+      "title": "Marketing Automation - Wand",
+      "description": "Customer segmentation is the key to the successful functioning of marketing in a company. Dividing the audience into groups with common needs and interests allows to target more effective messages for each group of customers. Machine learning algorithms for marketing not only allow businesses to automate this process, but also to find hidden patterns in […]",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\nCustomer segmentation is the key to the successful functioning of marketing in a company. Dividing the audience into groups with common needs and interests allows to target more effective messages for each group of customers. Machine learning algorithms for marketing not only allow businesses to automate this process, but also to find hidden patterns in the data. Thanks to this, the firm can create more specific small segments and target them with the most personalized marketing campaigns.\nWand’s mission is to find the best segmentation strategy which would lead to better conversions.\nYou could try this demo case\ninside the Wand\n.\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/docs-category/getting-started/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/docs-category/getting-started/",
+      "loadedTime": "2023-06-20 15:23:27",
+      "referrerUrl": "https://wand.ai/docs/about-wand/",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/docs-category/getting-started/",
+      "title": "Getting Started Archives - Wand",
+      "description": "",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/docs/rossman-case/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/docs/rossman-case/",
+      "loadedTime": "2023-06-20 15:23:27",
+      "referrerUrl": "https://wand.ai/docs/about-wand/",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/docs/rossman-case/",
+      "title": "Store sales prediction - Wand",
+      "description": "Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy […]",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\nRossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied.\nWand’s mission is to predict store sales at a higher accuracy.\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/docs/your-profile/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/docs/your-profile/",
+      "loadedTime": "2023-06-20 15:23:27",
+      "referrerUrl": "https://wand.ai/docs/about-wand/",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/docs/your-profile/",
+      "title": "Your Profile - Wand",
+      "description": "The user profile consist of these sections Profile Here users can edit their First Name, Last Name, Company Name, Title. In addition, it is possible to delete all data from the app by clicking on Delete account. Email Users can check their registration emails here. Security If users registered using password, they can change their […]",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\nThe user profile consist of these sections\nHere users can edit their First Name, Last Name, Company Name, Title. In addition, it is possible to delete all data from the app by clicking on Delete account.\nUsers can check their registration emails here.\nIf users registered using password, they can change their current password here.\nThis shows your Balance,\nSpending History\n,\nBalance History\nand information about Your Wand Plan.\nYou can buy Wand Units from here.\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/docs-category/demo-cases/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/docs-category/demo-cases/",
+      "loadedTime": "2023-06-20 15:23:28",
+      "referrerUrl": "https://wand.ai/docs/smartphone-price-segmentation/",
+      "depth": 3,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/docs-category/demo-cases/",
+      "title": "Demo Cases Archives - Wand",
+      "description": "",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/docs/training-playground/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/docs/training-playground/",
+      "loadedTime": "2023-06-20 15:23:28",
+      "referrerUrl": "https://wand.ai/docs/about-wand/",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/docs/training-playground/",
+      "title": "Training Playground - Wand",
+      "description": "Training Playground is a training environment which is present in each Experiment of any AI Task. It is the place where you bring your training data and build the pipeline in order to create a trained AI model. The AI model learns from historical information and then predicts answers to your question. Each run of […]",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\nTraining Playground is a training environment which is present in each\nExperiment\nof any\nAI Task\n. It is the place where you bring your training data and build the pipeline in order to create a trained AI model. The AI model learns from historical information and then predicts answers to your question. Each run of this environment will create a new AI model. You can run the training environment multiple times and create multiple models (e.g. by bringing more data or changing the training time and running the environment again).\nAfter configuring the\nPipeline\n, you can train an AI model. Please check that there are no disconnected items and unconfigured blocks (with an orange warning icon).\nIf the Wand Platform detects any problem with creating the trained AI model, you will receive a warning in the run log. Like here – the ML task was not configured correctly:\nThe training might take a long time – however, you can pre-determine the training time. You can close the running log and do something else. The Wand Platform will send you an email after a successful or unsuccessful run. If the run was successful, an AI model will be created.\nA successful run creates an AI model and also generates predictions, explainability, and metrics on the automatically chosen test set (a random holdout subset of the whole original dataset). A trained AI model can be deployed to\nStaging\nor\nProduction\nand generate predictions and explainability for new datasets.\nYou can always retrain an existing AI model in the\nTraining Playground\n, e.g. adding more labeled data, changing data transformations, or using other settings of the Wand ML block. The retrained model can be re-deployed to\nStaging\nor\nProduction\n. Please note that if the data schema (column names, type of AI task, or prediction key) changes, then the Wand Platform will create a new\nExperiment\n(within the same AI task) for this schema.\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  },
+  {
+    "url": "https://wand.ai/docs/lead-scoring/",
+    "crawl": {
+      "loadedUrl": "https://wand.ai/docs/lead-scoring/",
+      "loadedTime": "2023-06-20 15:23:29",
+      "referrerUrl": "https://wand.ai/docs/about-wand/",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://wand.ai/docs/lead-scoring/",
+      "title": "Lead scoring - Wand",
+      "description": "Traditional lead scoring systems have a habit of becoming obsolete quickly. Point values are often assigned by executive mandate (best guess) under a time crunch. Sales and Marketing teams are afraid to change the process in case conversions fall and they miss their numbers. The scores are rarely revisited. You could try this demo case […]",
+      "languageCode": "en_US"
+    },
+    "text": "Wand has been selected by AWS out of more than 1,200 companies to participate in their Generative AI accelerator program!\nRead more\nTraditional lead scoring systems have a habit of becoming obsolete quickly. Point values are often assigned by executive mandate (best guess) under a time crunch. Sales and Marketing teams are afraid to change the process in case conversions fall and they miss their numbers. The scores are rarely revisited.\nYou could try this demo case\ninside the Wand\n.\nWand.ai | 2022\nTerms\n|\nPrivacy policy\n|\nCookie list"
+  }
+]
